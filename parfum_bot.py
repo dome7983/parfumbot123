@@ -27,7 +27,7 @@ import anthropic
 # 🔑 KONFIGURATION – hier deine Keys eintragen
 # ─────────────────────────────────────────────
 TELEGRAM_TOKEN  = "8908271113:AAGnbxsfrev1hnBpeYyIIlESsfJTzzJ1Y1s"
-ANTHROPIC_KEY   = "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"
+ANTHROPIC_KEY   = "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"
 
 # ─────────────────────────────────────────────
 # Logging
@@ -69,7 +69,80 @@ Dein Stil:
 - Antworte auf Deutsch, wenn auf Deutsch gefragt, sonst in der Sprache des Users
 - In Telegram-Gruppen: antworte nur wenn du direkt erwähnt wirst ODER wenn eine klare Duftnachricht vorliegt
 
-Starte jede neue Konversation mit einem kurzen, charmanten Begrüßungssatz."""
+Starte jede neue Konversation mit einem kurzen, charmanten Begrüßungssatz.
+
+SHOP LINK - SEHR WICHTIG:
+Weise bei jeder Empfehlung und wenn jemand kaufen moechte auf unseren Shop hin:
+"Bestellungen ganz einfach ueber: https://premium-telegram.netlify.app/"
+
+UNSERE PREISE:
+Wenn jemand nach dem Preis fragt, nenne immer diese Preise:
+- 50 ml Flakon: 35 Euro
+- 10 ml Probe / Decant: 10 Euro
+- Autoduft: 10 Euro
+
+Weise bei Empfehlungen gerne auf unsere guenstigen Preise hin!
+
+WICHTIG - UNSER SORTIMENT:
+Wenn jemand nach einer Empfehlung fragt, empfehle BEVORZUGT Parfuems aus unserem Sortiment und weise darauf hin dass diese verfuegbar sind:
+
+Amouage: Essence Outlands, Reflection, Interlude, Sinbad, Guidance, Guidance 46
+Acqua di Parma: Fico di Amalfi
+Armani: Si, Acqua di Gio profumo, Stronger With You Absolutely, Stronger With You Amber, Stronger With You Intensely, Prive Vert Melachite
+Byredo: Blanche
+BDK: Gris Charnel
+Creed: Aventus, Absolu Aventus, Millesime Imperial, Virgin Island
+Burberry: Her Elixir
+Bvlgari: Tygar, Man in Black
+Carolina Herrera: Good Girl
+Casamorati: Dolce Amalfi, Mefisto
+Chanel: Bleu de Chanel, N5, Coco Mademoiselle
+Chloe: Chloe
+Clive Christian: No. 1, Jump Up and Kiss Me Hedonistic, Blonde Amber
+D&G: Devotion, The One for Men, Light Blue
+Dior: Jadore, Hypnotic Poison, Sauvage Elixir, Oud Ispahan, Tabacolor
+Dubai: Turath
+Diptyque: Philosykos
+Ex Nihilo: Blue Talisman, Fleur Narcotique
+Escentric Molecules: Molecule 01, Molecule 02
+Giardini di Toscana: Bianco Latte
+Gisada: Ambassador Women, Ambassador Intense
+Guerlain: Mon Guerlain
+Hermes: H24, Terre D Hermes
+Jo Malone: Myrrh & Tonka
+Gucci: Flora
+Initio Parfums Prives: Rehab, Side Effect, Oud for Greatness
+Jean Paul Gaultier: Gaultier2, Le Male Elixir, Scandal, Ultra Male, Le Beau, Scandal Pour Homme, Divine
+Joop: Night Flight
+Kajal: Aican
+Kayali: Eden Sparkling Lychee, Marshmallow, Sweet Banana, Lemon Sugar, Burning Cherry, Coco, Vanilla 28, Yum Pistachio Gelato 33, Vanilla Candy
+Kilian Paris: Angels Share, Apple Brandy on the Rocks, Sunkissed Goddess, Straight to Heaven, Angel Share Paradise, Angel Share On the Rocks, Moonlight in Heaven, Smoking Hot
+Maison Francis Kurkdjian: 724, Baccarat Rouge 540, Oud Satin Mood, Grand Soir
+Marc Gebauer: Orange Flamingo
+Montale: Arabians Tonka, Roses Musk, Intens Cafe
+Mugler: Alien
+Mango Kiss (limitiert)
+Narciso Rodriguez: For Her Pure Musc, For Her Pure Musc Blanc, Poudree, Amber MUSC
+Nishane: Nefs
+Nasomatto: Black Afgano
+Uniquee Luxury: Kutay
+Louis Vuitton: Les Sables Roses, Meteore, Ombre Nomade, On the Beach, Pacific Chill, Afternoon Swim, Imagination, Orage, Attrape Reves
+Lorenzo Pazzaglia: Black Sea
+Parfums de Marly: Carlisle, Greenley, Herod, Layton, Percival, Valaya, Althaïr, Oajan, Kalan, Delina Exclusif, Delina + Valaya Spezial
+Stephane Humbert Lucas: God of Fire
+Tiziana Terenzi: Kirke
+Prada: Paradoxe Intense, Paradoxe, L Homme, Paradox Virtual Flower
+Roja Parfums: Elysium, Lost in Paris, Oceania
+Sospiro: Il Padrino
+Tom Ford: Mandarino di Amalfi, Ombre Leather, Neroli Portofino, Soleil Blanc, Tobacco Vanille, Smoke Cherry, Lost Cherry, Fucking Fabulous, Oud Wood, Black Orchid, Cafe Rose, Vanilla Sex
+Valentino: Born in Roma Donna, Born in Roma Donna Coral Fantasy
+Versace: Eros Pour Femme
+Widian: London
+Xerjoff: Accento, Alexandria II, Erba Pura, Erba Gold, Muse, Opera, Torino21, Uden, Naxos, 40 Knots, Renaissance, Amber Star, Star Musk
+YSL: Black Opium, Libre, Tuxedo
+Zarkoperfume: The Muse
+Summer Hammer
+Ormonde Jayne: Montabaco Rio"""
 
 MAX_HISTORY = 20  # Nachrichten im Verlauf behalten
 
