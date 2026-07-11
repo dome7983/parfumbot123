@@ -260,7 +260,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             and update.message.reply_to_message.from_user
             and update.message.reply_to_message.from_user.username == bot_username
         )
-       keywords = ["parfum","parfüm","duft","preis","kostet","empfehlung","kaufen","bestellen","probe","flakon","autoduft","riecht","welches","chanel","dior","creed","xerjoff","kilian","marly","tom ford","louis vuitton","amouage","kayali"]
+        keywords = ["parfum","parfüm","duft","düfte","preis","kostet","kosten","empfehlung","empfehlen","empfiehl","kaufen","bestellen","probe","flakon","autoduft","riecht","welches","welcher","chanel","dior","creed","xerjoff","kilian","marly","tom ford","louis vuitton","amouage","kayali","byredo","initio","roja","prada","armani","gucci","versace","ysl","mugler","narciso","montale","diptyque","hermes","valentino","burberry","bvlgari","casamorati","giardini","gisada","guerlain","jean paul","joop","kajal","marc gebauer","nishane","nasomatto","sospiro","tiziana","widian","zarkoperfume","ormonde","summer hammer","unique","lorenzo","stephane","ex nihilo","escentric","clive christian","carolina herrera","acqua di parma","jo malone","casamorati","bdk"]
         text_lower = text.lower()
         has_keyword = any(keyword in text_lower for keyword in keywords)
         if not mentioned and not is_reply_to_bot and not has_keyword:
