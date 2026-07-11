@@ -151,7 +151,7 @@ Kilian Straight to Heaven: Kopf: Muskatnuss | Herz: Patschuli, Rum | Basis: Zede
 Kilian Moonlight in Heaven: Kopf: Grapefruit, Zitrone, rosa Pfeffer | Herz: Kokosnuss, Reis, Mango | Basis: Tonkabohne, Vetiver
 Kilian Smoking Hot: Kopf: Apfel, Zimt, Rauch | Herz: Kentucky Tabak, Eichenmoos | Basis: Bourbon-Vanille, Orcanox
 Kilian Angel Share Paradise: Suess, fruchtig, oriental - Variation von Angels Share
-Kilian Angel Share On the Rocks: Kuehlere Version von Angels Share
+Kilian Angel Share On the Rocks: Kopf: Zitrone, Bitterorange, Grapefruit, Eis-Akkord, Italienische Bergamotte, Aldehyde | Herz: Venezolanische Tonkabohne, Bernstein, Cognac, Laotischer Zimt, Myrrhe | Basis: Eichenholz. Suess, zitrusig, frisch - kuehlere Version von Angels Share
 Maison Francis Kurkdjian 724: Kopf: Aldehyde, kalabrische Bergamotte | Herz: aegyptischer Jasmin, Wicke | Basis: weisser Moschus, Sandelholz
 Maison Francis Kurkdjian Baccarat Rouge 540: Kopf: Safran, Jasmin | Herz: Amberwood, Ambergris | Basis: Tannenharz, Zedernholz. Sehr suess, blumig, amber.
 Maison Francis Kurkdjian Oud Satin Mood: bulgarische Rose, tuerkische Rose, Oud, Benzoe, Vanille, Veilchen
@@ -282,7 +282,7 @@ Kilian Moonlight in Heaven: Tropisch, frisch, ananas, kokosnuss.
 Kilian Smoking Hot: Rauchig, holzig, leder.
 Kilian Sunkissed Goddess: Frisch, blumig, sonnig.
 Kilian Angel Share Paradise: Suess, fruchtig, oriental.
-Kilian Angel Share On the Rocks: Kuehlere Version von Angels Share.
+Kilian Angel Share On the Rocks: Kopf: Zitrone, Bitterorange, Grapefruit, Eis-Akkord, Italienische Bergamotte, Aldehyde | Herz: Venezolanische Tonkabohne, Bernstein, Cognac, Laotischer Zimt, Myrrhe | Basis: Eichenholz. Suess, zitrusig, frisch - kuehlere Version von Angels Share.
 
 Maison Francis Kurkdjian Baccarat Rouge 540: Suess, blumig, amber. Jasmin, Safran, Zedernholz, Amber, Moschus. Sehr projektionsstark!
 Maison Francis Kurkdjian 724: Frisch, clean, urban. Zitrus, Neroli, Moschus.
