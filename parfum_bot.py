@@ -260,7 +260,10 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             and update.message.reply_to_message.from_user
             and update.message.reply_to_message.from_user.username == bot_username
         )
-        if not mentioned and not is_reply_to_bot:
+       keywords = ["parfum","parfüm","duft","preis","kostet","empfehlung","kaufen","bestellen","probe","flakon","autoduft","riecht","welches","chanel","dior","creed","xerjoff","kilian","marly","tom ford","louis vuitton","amouage","kayali"]
+        text_lower = text.lower()
+        has_keyword = any(keyword in text_lower for keyword in keywords)
+        if not mentioned and not is_reply_to_bot and not has_keyword:
             return
         # Erwähnung aus dem Text entfernen
         text = text.replace(f"@{bot_username}", "").strip()
