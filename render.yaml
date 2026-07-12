@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: parfumbot123-1
+    runtime: python
+    buildCommand: pip install python-telegram-bot anthropic
+    startCommand: python parfum_bot.py
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false
