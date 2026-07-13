@@ -7,7 +7,9 @@ Benötigt:
 Setup:
   1. Erstelle einen Bot über @BotFather in Telegram → /newbot → Token kopieren
   2. Hole einen Anthropic API-Key von https://console.anthropic.com
-  3. Trage beide Keys unten ein (oder als Umgebungsvariablen)
+  3. Trage beide Keys als Umgebungsvariablen ein:
+       TELEGRAM_BOT_TOKEN
+       ANTHROPIC_API_KEY
   4. Starte mit: python parfum_bot.py
 """
 
@@ -24,10 +26,19 @@ from telegram.ext import (
 import anthropic
 
 # ─────────────────────────────────────────────
-# 🔑 KONFIGURATION – hier deine Keys eintragen
+# 🔑 KONFIGURATION – Keys kommen aus Umgebungsvariablen
 # ─────────────────────────────────────────────
-TELEGRAM_TOKEN  = "8908271113:AAEP0cFcmb3DmnE5Rfp16j9OxAcDmNAL56I"
-ANTHROPIC_KEY   = "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"
+TELEGRAM_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY")
+
+if not TELEGRAM_TOKEN:
+    raise RuntimeError(
+        "TELEGRAM_BOT_TOKEN fehlt! Bitte als Umgebungsvariable in Railway eintragen."
+    )
+if not ANTHROPIC_KEY:
+    raise RuntimeError(
+        "ANTHROPIC_API_KEY fehlt! Bitte als Umgebungsvariable in Railway eintragen."
+    )
 
 # ─────────────────────────────────────────────
 # Logging
