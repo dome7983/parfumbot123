@@ -27,7 +27,7 @@ import anthropic
 # 🔑 KONFIGURATION – hier deine Keys eintragen
 # ─────────────────────────────────────────────
 TELEGRAM_TOKEN  = "8908271113:AAEP0cFcmb3DmnE5Rfp16j9OxAcDmNAL56I"
-ANTHROPIC_KEY   = "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"
+ANTHROPIC_KEY   = "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"
 
 # ─────────────────────────────────────────────
 # Logging
