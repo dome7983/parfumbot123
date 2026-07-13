@@ -89,6 +89,8 @@ Amouage Reflection Man: Kopf: Rosmarin, roter Pfeffer, Bitterorangenblatt | Herz
 Amouage Interlude Man: Kopf: Bergamotte, Oregano, Piment | Herz: Amber, Weihrauch, Zistrose | Basis: Leder, Oud, Patschuli, Sandelholz
 Amouage Guidance: Kopf: Birne, Weihrauch, Haselnuss | Herz: Safran, Rose, Sambac-Jasmin, Osmanthus | Basis: Zistrose, Sandelholz, Ambra, Vanille
 Amouage Guidance 46: Kopf: Birne, Weihrauch, Haselnuss, Rosenwasser, Rosa Pfeffer | Herz: Safran, Rose, Osmanthus | Basis: Sandelholz, Vanille
+Amouage Essence Outlands: Kopf: Weihrauch, Kardamom, Elemi, Zitrone, Bergamotte, Sichuan-Pfeffer | Herz: Patschuli, Anis, Koriander, Kreuzkuemmel, Safran, Wermut, Orangenbluete, Geranie, Rose | Basis: Weihrauch, Vanille, Amber, Benzoe, Oud, Opoponax, Birkenholz, Ambergris, Labdanum, Moschus
+Amouage Elsewhere / Sindbad: Kopf: Honig, Aprikose, Kardamom, Granatapfel, Ingwer, Tangerine, Mango, Grapefruit, rosa Pfeffer | Herz: Cappuccino, schwarzer Tee, Davana | Basis: Zedernholz, Tonkabohne, Vanille, Cypriol, Vetiver, Patschuli, Labdanum
 Armani Prive Vert Malachite: Kopf: Bitterorange, Petitgrain | Herz: Ylang-Ylang, Sambac-Jasmin, Rosa Pfeffer | Basis: Lilie, Vanille, Benzoe
 Armani Si: Kopf: Cassis | Herz: Freesie, Mairose | Basis: Vanille, Patschuli, Ambroxan
 Armani Acqua di Gio Profumo: Kopf: Bergamotte, maritime Noten | Herz: Geranie, Rosmarin, Salbei | Basis: Patschuli, Weihrauch
@@ -143,6 +145,7 @@ Jean Paul Gaultier Ultra Male: Kopf: Birne, Lavendel, Minze, Bergamotte | Herz: 
 Jean Paul Gaultier Le Beau: Kopf: Bergamotte | Herz: Kokosnussholz | Basis: Tonkabohne
 Jean Paul Gaultier Scandal Pour Homme: Kopf: Muskatellersalbei, Mandarine | Herz: Karamell, Tonkabohne | Basis: Vetiver
 Jean Paul Gaultier Divine: Kopf: rote Beeren, Bergamotte | Herz: Lilie, Ylang-Ylang, Jasmin | Basis: Moschus, Patschuli
+Jean Paul Gaultier Gaultier2: Amber, Vanille, Moschus - warmer, suesser Dreiklang-Duft (kein klassisches Kopf/Herz/Basis-Schema, nur diese drei dominanten Noten)
 Jo Malone Myrrh & Tonka: Kopf: Lavendel | Herz: Myrrhe | Basis: Tonkabohne, Vanille, Mandel
 Joop Nightflight: Kopf: Ananas, Lavendel, Zitrone, Bergamotte | Herz: Jasmin, Rose, Geranie | Basis: Mandel, Tonkabohne, Moschus, Sandelholz, Amber
 Kajal Aican: Kopf: Passionsfrucht, Ananas, Mandarine | Herz: schwarzer Pfeffer, Jasmin, Ingwer | Basis: Praline, Vanille, Patschuli, Sandelholz, Amber
@@ -176,6 +179,7 @@ Mango Kiss: Kopf: Mango, Brombeere, Apfel | Herz: Iris, Lotus, Jasmin | Basis: P
 Narciso Rodriguez For Her Pure Musc: sauber, muskalisch, weisse Blueten - sehr dezent
 Narciso Rodriguez Poudree: Kopf: Rose, Jasmin, Orangenbluete | Herz: Moschus | Basis: Vetiver, Zeder, Cumarin, Patschuli
 Narciso Rodriguez Amber Musc: Kopf: Orangenbluete, Moschus | Herz: Oud, Patschuli, Leder | Basis: Amber, Vanille, Weihrauch
+Narciso Rodriguez For Her Pure Musc Blanc: Kopf: Aldehyde, klare Noten, Jasmin, Bergamotte | Herz: Moschus, weisse Blueten | Basis: Vanille, Zedernholz, Amber
 Nasomatto Black Afgano: Kopf: Cannabis, gruene Noten | Herz: Harze, Kaffee, Tabak | Basis: Weihrauch, Oud
 Nishane Nefs: Kopf: Honig, Veilchen, Salbei, Safran, Feige | Herz: Rose, Osmanthus, Geranie, Jasmin | Basis: Amber, Whiskey, Oud, Zimt, Zeder, Leder, Vanille
 Uniquee Luxury Kutay: Kopf: Bergamotte, Zitrone, Davana, Whiskey | Herz: Oud, Karamell | Basis: Sandelholz, Tabak, Amber, Vanille
@@ -208,6 +212,7 @@ Prada Paradoxe Virtual Flower: Kopf: Bergamotte | Herz: Jasmin, Neroli | Basis: 
 Prada L Homme: Kopf: Neroli, schwarzer Pfeffer, Kardamom | Herz: Iris, Veilchen, Geranie | Basis: Amber, Zedernholz, Sandelholz
 Roja Parfums Elysium: Kopf: Zitrone, Bergamotte, Grapefruit, Thymian | Herz: Rose, Jasmin, Apfel, schwarze Johannisbeere, Vetiver | Basis: Benzoe, Vanille, Leder, Moschus
 Roja Parfums Oceania: Kopf: Bergamotte, Limette, Mandarine, Grapefruit, Rosmarin | Herz: Geranie, Jasmin, Ylang-Ylang, Veilchen | Basis: Moos, Vetiver, Zedernholz, Vanille, Moschus
+Roja Parfums Lost in Paris: Kopf: Blutorange, Bitterorange, Mandarine, Rum, Grand Marnier | Herz: karamellisierter Zucker, Butter-Akkord, Karamell-Akkord | Basis: rosa Pfeffer, Zimt, Nelke, Zedernholz, Kaschmirholz, Vanille, Ambergris, Moschus
 Sospiro Il Padrino: Jasmin, Bergamotte, Grapefruit, pudrige Noten, Magnolie, Zedernholz, Amber, Moschus
 Tom Ford Mandarino di Amalfi: Kopf: Estragon, Minze, schwarze Johannisbeere, Grapefruit, Basilikum | Herz: schwarzer Pfeffer, Orangenbluete, Jasmin | Basis: Vetiver, Amber, Moschus
 Tom Ford Ombre Leather: Kopf: Kardamom | Herz: arabischer Jasmin, schwarzes Leder | Basis: Patschuli, Moos, Amber
@@ -268,7 +273,7 @@ Weise bei Empfehlungen gerne auf unsere guenstigen Preise hin!
 WICHTIG - UNSER SORTIMENT:
 Wenn jemand nach einer Empfehlung fragt, empfehle BEVORZUGT Parfuems aus unserem Sortiment und weise darauf hin dass diese verfuegbar sind:
 
-Amouage: Essence Outlands, Reflection, Interlude, Sinbad, Guidance, Guidance 46
+Amouage: Essence Outlands, Reflection, Interlude, Elsewhere / Sindbad, Guidance, Guidance 46
 Acqua di Parma: Fico di Amalfi
 Armani: Si, Acqua di Gio profumo, Stronger With You Absolutely, Stronger With You Amber, Stronger With You Intensely, Prive Vert Melachite
 Byredo: Blanche
