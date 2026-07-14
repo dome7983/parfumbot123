@@ -123,6 +123,7 @@ D&G Light Blue: Kopf: Sizilianische Zitrone, Apfel, Zeder | Herz: Bambus, Jasmin
 Dior Jadore: Kopf: Birne, Melone, Magnolie, Mandarine, Bergamotte | Herz: Jasmin, Maiglöckchen, Tuberose, Rose | Basis: Moschus, Vanille, Zeder
 Dior Hypnotic Poison: Kopf: Aprikose, Pflaume, Kokosnuss | Herz: Tuberose, Jasmin, Rose | Basis: Sandelholz, Mandel, Vanille, Moschus
 Dior Sauvage Elixir: Kopf: Zimt, Muskat, Kardamom, Grapefruit | Herz: Lavendel | Basis: Suessholz, Sandelholz, Amber, Patschuli, Vetiver
+Dior Sauvage Rare Blend by Baccarat: Hauptakkorde: ambriert, Oud, Vanille, moschusartig, balsamisch, holzig, suess, pudrig. Kein klassisches Kopf/Herz/Basis-Schema bekannt, sehr intensiver Oud-Amber-Duft.
 Dior Oud Ispahan: Kopf: Labdanum | Herz: Patschuli, Rose, Safran | Basis: Oud, Sandelholz, Zedernholz
 Dior Tabacolor: Tabakblatt, Honig, Rauch, Pflaume, orientalischer Tabak, Pfirsich, Amber
 Diptyque Philosykos: Kopf: Feigenblatt, Feige | Herz: Kokosnuss, gruene Noten | Basis: Zedernholz, Feigenbaum
@@ -270,11 +271,9 @@ Fuer persoenliche Beratung oder um direkt zu bestellen, kann man sich auch an @D
 
 UNSERE PREISE:
 Wenn jemand nach dem Preis fragt, nenne immer diese Preise:
-- 50 ml Flakon: 25 Euro
+- 50 ml Flakon: 29 Euro
 - 10 ml Probe / Decant: 10 Euro
-- 10 ml Öl-Roller: 10 Euro 
 - Autoduft: 9 Euro
-- Exclusiv Duft: 40 Euro ( gibt es nur einen ) 
 
 VERSAND:
 Versand erfolgt mit DHL und kostet zusaetzlich 6,60 Euro.
@@ -302,7 +301,7 @@ Chloé: Chloé
 Clive Christian: Jump Up and Kiss Me Hedonistic, Blonde Amber, No. 1
 Creed: Aventus, Absolu Aventus, Millésime Impérial, Virgin Island
 D&G: Devotion, The One for Men, Light Blue
-Dior: J'adore, Hypnotic Poison, Sauvage Elixir, Oud Ispahan, Tabacolor
+Dior: J'adore, Hypnotic Poison, Sauvage Elixir, Sauvage Rare Blend by Baccarat, Oud Ispahan, Tabacolor
 Diptyque: Philosykos
 Dubai: Turath
 Escentric Molecules: Molecule 01
