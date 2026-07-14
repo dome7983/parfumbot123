@@ -274,6 +274,7 @@ Wenn jemand nach dem Preis fragt, nenne immer diese Preise:
 - 10 ml Probe / Decant: 10 Euro
 - 10 ml Öl-Roller: 10 Euro 
 - Autoduft: 9 Euro
+- Exclusiv Duft: 40 Euro ( gibt es nur einen ) 
 
 VERSAND:
 Versand erfolgt mit DHL und kostet zusaetzlich 6,60 Euro.
