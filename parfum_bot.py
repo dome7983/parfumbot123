@@ -430,6 +430,29 @@ async def cmd_beispiele(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(text, parse_mode="Markdown")
 
 
+async def welcome_new_member(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Begruesst neue Mitglieder persoenlich, wenn sie der Gruppe beitreten."""
+    if not update.message or not update.message.new_chat_members:
+        return
+
+    for member in update.message.new_chat_members:
+        # Bots (inkl. sich selbst) nicht begruessen
+        if member.is_bot:
+            continue
+
+        name = member.first_name or "there"
+        welcome_text = (
+            f"Willkommen in der Gruppe Premium Parfums {name}! 🌸 "
+            "Ich bin Sillage, dein persönlicher Duftberater. Frag mich "
+            "einfach alles über Parfums – ich helfe dir gerne bei der "
+            "Auswahl! Für Bestellungen: https://premium-telegram.netlify.app/ "
+            "oder direkt bei @Dome_nicooo\n\n"
+            "📌 Bitte lies dir die angehefteten Gruppenregeln durch.\n"
+            "🤝 Ein respektvoller Umgang miteinander steht an erster Stelle."
+        )
+        await update.message.reply_text(welcome_text)
+
+
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Verarbeitet alle Textnachrichten."""
     if not update.message or not update.message.text:
@@ -502,6 +525,9 @@ def main():
     app.add_handler(CommandHandler("reset",     cmd_reset))
     app.add_handler(CommandHandler("help",      cmd_help))
     app.add_handler(CommandHandler("beispiele", cmd_beispiele))
+    app.add_handler(
+        MessageHandler(filters.StatusUpdate.NEW_CHAT_MEMBERS, welcome_new_member)
+    )
     app.add_handler(
         MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message)
     )
