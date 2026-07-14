@@ -275,7 +275,7 @@ Wenn jemand nach dem Preis fragt, nenne immer diese Preise:
 - 10 ml Probe: 10 Euro
 - 10 ml Ölroller: 10 EURO
 - Autoduft: 9 Euro
-- Exclusiv Duft - Dior Sauvage Rare Blend by Baccarat: 45 EURO 
+- Exclusiv Duft - Dior Sauvage Rare Blend by Baccarat: 50 ml Flakon inkl Verpackung 45 EURO 
 
 VERSAND:
 Versand erfolgt mit DHL und kostet zusaetzlich 6,60 Euro.
