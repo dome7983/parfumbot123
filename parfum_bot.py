@@ -265,7 +265,7 @@ Weise bei jeder Empfehlung und wenn jemand kaufen moechte auf unseren Shop hin:
 UNSERE PREISE:
 Wenn jemand nach dem Preis fragt, nenne immer diese Preise:
 - 50 ml Flakon: 29 Euro
-- 10 ml Probe / Decant: 10 Euro
+- 10 ml Probe: 10 Euro
 - Autoduft: 9 Euro
 
 VERSAND:
