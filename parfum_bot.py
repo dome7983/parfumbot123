@@ -91,13 +91,14 @@ Amouage Guidance: Kopf: Birne, Weihrauch, Haselnuss | Herz: Safran, Rose, Sambac
 Amouage Guidance 46: Kopf: Birne, Weihrauch, Haselnuss, Rosenwasser, Rosa Pfeffer | Herz: Safran, Rose, Osmanthus | Basis: Sandelholz, Vanille
 Amouage Essence Outlands: Kopf: Weihrauch, Kardamom, Elemi, Zitrone, Bergamotte, Sichuan-Pfeffer | Herz: Patschuli, Anis, Koriander, Kreuzkuemmel, Safran, Wermut, Orangenbluete, Geranie, Rose | Basis: Weihrauch, Vanille, Amber, Benzoe, Oud, Opoponax, Birkenholz, Ambergris, Labdanum, Moschus
 Amouage Elsewhere / Sindbad: Kopf: Honig, Aprikose, Kardamom, Granatapfel, Ingwer, Tangerine, Mango, Grapefruit, rosa Pfeffer | Herz: Cappuccino, schwarzer Tee, Davana | Basis: Zedernholz, Tonkabohne, Vanille, Cypriol, Vetiver, Patschuli, Labdanum
-Armani Prive Vert Malachite: Kopf: Bitterorange, Petitgrain | Herz: Ylang-Ylang, Sambac-Jasmin, Rosa Pfeffer | Basis: Lilie, Vanille, Benzoe
+Armani Prive Vert Malachite: Kopf: Orange, Petitgrain | Herz: Jasmin-Sambac Absolue, Ylang-Ylang | Basis: Vanille, weisse Lilie, Benzoe. Blumig, suess, cremig, gruen, frisch.
 Armani Si: Kopf: Cassis | Herz: Freesie, Mairose | Basis: Vanille, Patschuli, Ambroxan
 Armani Acqua di Gio Profumo: Kopf: Bergamotte, maritime Noten | Herz: Geranie, Rosmarin, Salbei | Basis: Patschuli, Weihrauch
 Armani Stronger With You Absolutely: Kopf: Rum, Elemiharz, Bergamotte | Herz: Lavendel, Davana | Basis: Kastanie, Vanille, Patschuli, Zedernholz
 Armani Stronger With You Amber: Kopf: Lavendel | Herz: Kardamom | Basis: Amber, Vanille
 Armani Stronger With You Intensely: Kopf: Rosa Pfeffer, Wacholder, Veilchen | Herz: Lavendel, Salbei, Toffee, Zimt | Basis: Amber, Tonkabohne, Vanille, Wildleder
 BDK Gris Charnel: Kopf: Feige, schwarzer Tee, Kardamom | Herz: Iris, Bourbon-Vetiver | Basis: Sandelholz, Tonkabohne
+Boadicea the Victorious 1907: Kopf: Kardamom, Zimt, rosa Pfeffer, Zitrone | Herz: Muskat, Salbei, Kaschmir, Veilchen | Basis: Benzoe, Moos, Moschus, Zedernholz, Tonkabohne, Amber, Tabak. Wuerzig, sinnlich, tief.
 Burberry Her Elixir: Kopf: Erdbeere, Brombeere | Herz: Jasmin | Basis: Vanille, Amber, Sandelholz
 Bvlgari Tygar: Kopf: Grapefruit | Herz: Ingwer, Ambrette | Basis: Ambroxan, Vetiver, Moschus
 Bvlgari Man in Black: Kopf: Gewuerze, Rum, Tabak | Herz: Leder, Iris, Tuberose | Basis: Tonkabohne, Guajakholz, Benzoe
@@ -148,7 +149,7 @@ Jean Paul Gaultier Divine: Kopf: rote Beeren, Bergamotte | Herz: Lilie, Ylang-Yl
 Jean Paul Gaultier Gaultier2: Amber, Vanille, Moschus - warmer, suesser Dreiklang-Duft (kein klassisches Kopf/Herz/Basis-Schema, nur diese drei dominanten Noten)
 Jo Malone Myrrh & Tonka: Kopf: Lavendel | Herz: Myrrhe | Basis: Tonkabohne, Vanille, Mandel
 Joop Nightflight: Kopf: Ananas, Lavendel, Zitrone, Bergamotte | Herz: Jasmin, Rose, Geranie | Basis: Mandel, Tonkabohne, Moschus, Sandelholz, Amber
-Kajal Aican: Kopf: Passionsfrucht, Ananas, Mandarine | Herz: schwarzer Pfeffer, Jasmin, Ingwer | Basis: Praline, Vanille, Patschuli, Sandelholz, Amber
+Kajal Aican: Kopf: Passionsfrucht, Ananas, Mandarine | Herz: Ingwer, Jasmin, schwarzer Pfeffer | Basis: Moschus, Praline, Vanille, Amber, Patschuli. Fruchtig, suess, wuerzig, cremig, gourmand.
 Kayali Eden Sparkling Lychee 39: Kopf: schwarze Johannisbeere, Litschi, Zitrone, roter Apfel | Herz: Rose, Sambac-Jasmin, kandiertes Veilchen | Basis: Amber, Sandelholz, Moschus, Vanille
 Kayali Burning Cherry 48: Kopf: schwarze Kirsche, Himbeere, Bergamotte | Herz: Praline, Heliotrop, Damaszener Rose | Basis: Palo Santo, Guajakholz, Patschuli, Tonkabohne, Vetiver
 Kayali Vanilla 28: Kopf: Vanille-Orchidee, Jasmin | Herz: brauner Zucker, Tonkabohne | Basis: Amber, Moschus, Patschuli
@@ -204,6 +205,7 @@ Parfums de Marly Althaïr: Kopf: Orangenbluete, Bergamotte, Zimt, Kardamom | Her
 Parfums de Marly Oajan: Kopf: Zimt, Honig, Osmanthus | Herz: Benzoe, Labdanum, Ambergris | Basis: Patschuli, Moschus, Vanille, Tonkabohne
 Parfums de Marly Kalan: Kopf: rote Orange, schwarzer Pfeffer | Herz: Lavendel, Orangenbluete, Kaschmirholz | Basis: Moos, Sandelholz, Tonkabohne, Amber
 Parfums de Marly Delina Exclusif: Kopf: Birne, Litschi, Grapefruit | Herz: Damaszener Rose, Weihrauch, Vetiver | Basis: Vanille, Moschus
+Parfums de Marly Pegasus Exclusif: Kopf: Kardamom, Heliotrop, rosa Pfeffer, Bergamotte | Herz: Bittermandel, Lavendel, Jasmin, Rosengeranie | Basis: Guajakholz, Sandelholz, Vanille, Amber, Oud. Holzig, suess, wuerzig, orientalisch, cremig.
 Stephane Humbert Lucas God of Fire: Kopf: Mango, Zitrone, rote Beeren, Ingwer | Herz: Cumarin, Jasmin | Basis: Oud, Moschus, Amber
 Tiziana Terenzi Kirke: Kopf: Passionsfrucht, Pfirsich, Himbeere, Cassis, Birne | Herz: Maiglöckchen | Basis: Heliotrop, Sandelholz, Vanille, Moschus
 Prada Paradoxe: Kopf: Birne, Tangerine, Bergamotte | Herz: Orangenbluete, Neroli, Sambac-Jasmin | Basis: Bourbon-Vanille, Moschus, Amber
@@ -211,6 +213,7 @@ Prada Paradoxe Intense: Kopf: Birne, Neroli, Bergamotte | Herz: Moos, Jasmin, Ne
 Prada Paradoxe Virtual Flower: Kopf: Bergamotte | Herz: Jasmin, Neroli | Basis: Moschus, Ambrette
 Prada L Homme: Kopf: Neroli, schwarzer Pfeffer, Kardamom | Herz: Iris, Veilchen, Geranie | Basis: Amber, Zedernholz, Sandelholz
 Roja Parfums Elysium: Kopf: Zitrone, Bergamotte, Grapefruit, Thymian | Herz: Rose, Jasmin, Apfel, schwarze Johannisbeere, Vetiver | Basis: Benzoe, Vanille, Leder, Moschus
+Roja Parfums A Goodnight Kiss: Kopf: Aldehyde, Bergamotte | Herz: Gartennelke, Mairose, Veilchen, Orangenbluete, Ylang-Ylang, Grasse-Jasmin | Basis: Gewuerznelke, Iris, Reispuder, gruene Noten, Leder, Moschus, wuerzige Noten, Zedernholz
 Roja Parfums Oceania: Kopf: Bergamotte, Limette, Mandarine, Grapefruit, Rosmarin | Herz: Geranie, Jasmin, Ylang-Ylang, Veilchen | Basis: Moos, Vetiver, Zedernholz, Vanille, Moschus
 Roja Parfums Lost in Paris: Kopf: Blutorange, Bitterorange, Mandarine, Rum, Grand Marnier | Herz: karamellisierter Zucker, Butter-Akkord, Karamell-Akkord | Basis: rosa Pfeffer, Zimt, Nelke, Zedernholz, Kaschmirholz, Vanille, Ambergris, Moschus
 Sospiro Il Padrino: Jasmin, Bergamotte, Grapefruit, pudrige Noten, Magnolie, Zedernholz, Amber, Moschus
@@ -243,6 +246,7 @@ Xerjoff 40 Knots: Salz, maritime Noten, holzige Noten, gruene Noten, Zeder
 Xerjoff Renaissance: Kopf: Amalfi-Zitrone, Tangerine, Bergamotte | Herz: Minze, Maiglöckchen, Rose | Basis: Moschus, Amber, Zedernholz, Patschuli
 Xerjoff Amber Star: Kopf: Ambergris, Ylang-Ylang, Zedernholz | Herz: Guajakholz, Myrrhe | Basis: Vanille, Sandelholz, Benzoe
 Xerjoff Star Musk: Kopf: Mandarine, Amber | Herz: Patschuli, Sandelholz, Nelke, Iris, Zimt | Basis: Moschus, Vanille, Sandelholz
+Xerjoff 7: Kopf: Birne, Kokosnuss, pinke Grapefruit | Herz: Cashmeran, Iriswurzel, Weihrauch | Basis: Amber, Bourbon-Vanille, Virginia-Zedernholz. Cremig, holzig, gourmand, pudrig - warm und elegant.
 YSL Black Opium: Kopf: rosa Pfeffer, Orangenbluete, Birne | Herz: Kaffee, Jasmin, Bittermandel | Basis: Vanille, Patschuli, Zeder
 YSL Libre: Kopf: Mandarine, Lavendel, schwarze Johannisbeere | Herz: Jasmin, Lavendel, Orangenbluete | Basis: Madagaskar-Vanille, Zedernholz, Moschus
 YSL Tuxedo: Kopf: Veilchenblatt, Koriander, Bergamotte | Herz: Rose, schwarzer Pfeffer | Basis: Patschuli, Ambergris, Bourbon-Vanille
