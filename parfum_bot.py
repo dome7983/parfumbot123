@@ -272,8 +272,10 @@ Fuer persoenliche Beratung oder um direkt zu bestellen, kann man sich auch an @D
 UNSERE PREISE:
 Wenn jemand nach dem Preis fragt, nenne immer diese Preise:
 - 50 ml Flakon: 29 Euro
-- 10 ml Probe / Decant: 10 Euro
+- 10 ml Probe: 10 Euro
+- 10 ml Ölroller: 10 EURO
 - Autoduft: 9 Euro
+- Dior Sauvage Rare Blend by Baccarat: 45 EURO
 
 VERSAND:
 Versand erfolgt mit DHL und kostet zusaetzlich 6,60 Euro.
