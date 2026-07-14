@@ -267,7 +267,7 @@ Fuer persoenliche Beratung oder um direkt zu bestellen, kann man sich auch an @D
 UNSERE PREISE:
 Wenn jemand nach dem Preis fragt, nenne immer diese Preise:
 - 50 ml Flakon: 29 Euro
-- 10 ml Probe: 10 Euro
+- 10 ml Probe / Decant: 10 Euro
 - Autoduft: 9 Euro
 
 VERSAND:
@@ -281,63 +281,60 @@ Weise bei Empfehlungen gerne auf unsere guenstigen Preise hin!
 WICHTIG - UNSER SORTIMENT:
 Wenn jemand nach einer Empfehlung fragt, empfehle BEVORZUGT Parfuems aus unserem Sortiment und weise darauf hin dass diese verfuegbar sind:
 
-Amouage: Essence Outlands, Reflection, Interlude, Elsewhere / Sindbad, Guidance, Guidance 46
 Acqua di Parma: Fico di Amalfi
-Armani: Si, Acqua di Gio profumo, Stronger With You Absolutely, Stronger With You Amber, Stronger With You Intensely, Prive Vert Melachite
-Byredo: Blanche
-BDK: Gris Charnel
-Creed: Aventus, Absolu Aventus, Millesime Imperial, Virgin Island
+Amouage: Essence Outlands, Reflection, Interlude, Sinbad (auch bekannt als Elsewhere / Sindbad), Guidance, Guidance 46
+Armani: Sì, Acqua di Gio profumo, Stronger With You Absolutely, Stronger With You Amber, Stronger With You Intensely
+Armani Privé: Vert Malachite
+BDK: Extrait Gris Charnel
+Boadicea the Victorious: 1907
 Burberry: Her Elixir
 Bvlgari: Tygar, Man in Black
 Carolina Herrera: Good Girl
 Casamorati: Dolce Amalfi, Mefisto
-Chanel: Bleu de Chanel, N5, Coco Mademoiselle
-Chloe: Chloe
-Clive Christian: No. 1, Jump Up and Kiss Me Hedonistic, Blonde Amber
+Chanel: N°5, Coco Mademoiselle, Bleu de Chanel
+Chloé: Chloé
+Clive Christian: Jump Up and Kiss Me Hedonistic, Blonde Amber, No. 1
+Creed: Aventus, Absolu Aventus, Millésime Impérial, Virgin Island
 D&G: Devotion, The One for Men, Light Blue
-Dior: Jadore, Hypnotic Poison, Sauvage Elixir, Oud Ispahan, Tabacolor
-Dubai: Turath
+Dior: J'adore, Hypnotic Poison, Sauvage Elixir, Oud Ispahan, Tabacolor
 Diptyque: Philosykos
-Ex Nihilo: Blue Talisman, Fleur Narcotique
-Escentric Molecules: Molecule 01, Molecule 02
+Dubai: Turath
+Escentric Molecules: Molecule 01
+Ex Nihilo: Fleur Narcotique, Blue Talisman
 Giardini di Toscana: Bianco Latte
 Gisada: Ambassador Women, Ambassador Intense
-Guerlain: Mon Guerlain
-Hermes: H24, Terre D Hermes
-Jo Malone: Myrrh & Tonka
 Gucci: Flora
-Initio Parfums Prives: Rehab, Side Effect, Oud for Greatness
-Jean Paul Gaultier: Gaultier2, Le Male Elixir, Scandal, Ultra Male, Le Beau, Scandal Pour Homme, Divine
+Guerlain: Mon Guerlain
+Hermès: H24, Terre d'Hermès
+Initio Parfums Privés: Rehab, Side Effect, Oud for Greatness
+Jean Paul Gaultier: Scandal, Divine, Gaultier², Le Male Elixir, Ultra Male, Le Beau, Scandal Pour Homme
 Joop: Night Flight
-Kajal: Aican
-Kayali: Eden Sparkling Lychee, Marshmallow, Sweet Banana, Lemon Sugar, Burning Cherry, Coco, Vanilla 28, Yum Pistachio Gelato 33, Vanilla Candy
-Kilian Paris: Angels Share, Apple Brandy on the Rocks, Sunkissed Goddess, Straight to Heaven, Angel Share Paradise, Angel Share On the Rocks, Moonlight in Heaven, Smoking Hot
+Kajal: Äican
+Kayali: Eden Sparkling Lychee | 39, Yum Boujee Marshmallow | 81, Maui In A Bottle Sweet Banana | 37, Capri Lemon Sugar | 14, Lovefest Burning Cherry 48, Maldives In A Bottle Ylang Coco | 20, Vanilla 28, Yum Pistachio Gelato | 33, Vanilla Candy Rock Sugar | 42
+Kilian Paris: Angels' Share, Sunkissed Goddess, Angel Share Paradise, Moonlight in Heaven, Apple Brandy on the Rocks, Angel Share On the Rocks
+Lorenzo Pazzaglia: Summer Hammer
+Louis Vuitton: Les Sables Roses, Météore, Ombre Nomade, On the Beach, Pacific Chill, Afternoon Swim, Imagination, Orage
 Maison Francis Kurkdjian: 724, Baccarat Rouge 540, Oud Satin Mood, Grand Soir
 Marc Gebauer: Orange Flamingo
-Montale: Arabians Tonka, Roses Musk, Intens Cafe
+Montale: Roses Musk, Arabians Tonka, Intens Café
 Mugler: Alien
-Mango Kiss (limitiert)
-Narciso Rodriguez: For Her Pure Musc, For Her Pure Musc Blanc, Poudree, Amber MUSC
-Nishane: Nefs
+Narciso Rodriguez: For Her Pure Musc, Poudrée, Amber MUSC, For Her Pure Musc Blanc
 Nasomatto: Black Afgano
-Uniquee Luxury: Kutay
-Louis Vuitton: Les Sables Roses, Meteore, Ombre Nomade, On the Beach, Pacific Chill, Afternoon Swim, Imagination, Orage, Attrape Reves
-Lorenzo Pazzaglia: Black Sea
-Parfums de Marly: Carlisle, Greenley, Herod, Layton, Percival, Valaya, Althaïr, Oajan, Kalan, Delina Exclusif, Delina + Valaya Spezial
-Stephane Humbert Lucas: God of Fire
-Tiziana Terenzi: Kirke
-Prada: Paradoxe Intense, Paradoxe, L Homme, Paradox Virtual Flower
-Roja Parfums: Elysium, Lost in Paris, Oceania
+Nishane: Nefs
+Ormonde Jayne: Montabaco Rio
+Parfums de Marly: Valaya, Delina + Valaya Spezial, Delina Exclusif, Carlisle, Greenley, Herod, Layton, Percival, Althaïr, Oajan, Kalan, Pegasus
+Prada: Paradoxe Intense, Paradoxe, Paradox Virtual Flower, L'Homme
+Roja Parfums: A Goodnight Kiss, Elysium, Oceania
 Sospiro: Il Padrino
-Tom Ford: Mandarino di Amalfi, Ombre Leather, Neroli Portofino, Soleil Blanc, Tobacco Vanille, Smoke Cherry, Lost Cherry, Fucking Fabulous, Oud Wood, Black Orchid, Cafe Rose, Vanilla Sex
+Stéphane Humbert Lucas: God of Fire
+Tiziana Terenzi: Kirke
+Tom Ford: Café Rose, Vanilla Sex, Black Orchid, Mandarino di Amalfi, Tobacco Vanille, Fucking Fabulous, Ombré Leather, Neroli Portofino, Soleil Blanc, Smoke Cherry, Lost Cherry, Oud Wood
 Valentino: Born in Roma Donna, Born in Roma Donna Coral Fantasy
 Versace: Eros Pour Femme
 Widian: London
-Xerjoff: Accento, Alexandria II, Erba Pura, Erba Gold, Muse, Opera, Torino21, Uden, Naxos, 40 Knots, Renaissance, Amber Star, Star Musk
+Xerjoff: Accento, Torino21, Naxos, Alexandria II, Erba Pura, Erba Gold, Muse, Opera, Uden, 40 Knots, Amber Star, Star Musk, 7
 YSL: Black Opium, Libre, Tuxedo
-Zarkoperfume: The Muse
-Summer Hammer
-Ormonde Jayne: Montabaco Rio"""
+Zarkoperfume: The Muse"""
 
 MAX_HISTORY = 20  # Nachrichten im Verlauf behalten
 
