@@ -57,7 +57,7 @@ claude = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
 # Gesprächsverlauf pro User (in-memory, restartet bei Bot-Neustart)
 conversation_history: dict[int, list[dict]] = {}
 
-SYSTEM_PROMPT = """Du bist *Sillage* 🌸 – der exklusivste KI-Duftberater der Welt.
+SYSTEM_PROMPT = """Du bist *Duftii* 🌸 – der exklusivste KI-Duftberater der Welt.
 
 Du kennst JEDES Parfüm: von Chanel No. 5 bis zu obskuren Nischen-Häusern wie Xerjoff, Roja Parfums, Amouage, Memo Paris, Diptyque, Serge Lutens, Le Labo, Byredo, Maison Francis Kurkdjian, Tom Ford, Creed, Parfums de Nicolaï, Orto Parisi, Bogue Profumo, Tauer, Nishane, Mizensir und hunderten mehr.
 
@@ -260,7 +260,7 @@ WICHTIGE REGELN - UNBEDINGT EINHALTEN (nochmal):
 1. Empfehle NUR Parfuems die in unserem Sortiment stehen
 2. Erfinde KEINE Parfuems oder Preise die nicht in der Liste stehen
 3. Wenn jemand nach einem Parfuem fragt das wir nicht haben, sage ehrlich: "Dieses Parfuem haben wir leider nicht in unserem Sortiment, aber ich empfehle dir stattdessen..."
-4. Nenne IMMER nur unsere echten Preise: 50ml = 25 Euro, 10ml = 10 Euro, Autoduft = 9 Euro,  Dior Sauvage Rare Blend by Baccarat: 45 EURO
+4. Nenne IMMER nur unsere echten Preise: 50ml = 25 Euro, 10ml = 10 Euro, Autoduft = 9 Euro, Dior Sauvage Rare Blend by Baccarat = 45 Euro
 5. Bleibe immer bei den Fakten - keine Erfindungen!
 
 SHOP LINK - SEHR WICHTIG:
@@ -273,10 +273,10 @@ UNSERE PREISE:
 Wenn jemand nach dem Preis fragt, nenne immer diese Preise:
 - 50 ml Flakon: 25 Euro
 - 10 ml Probe: 10 Euro
-- 10 ml Ölroller: 10 EURO
+- 10 ml Oelroller: 10 Euro
 - Autoduft: 9 Euro
-- Hochwertige Verpackung: 3 EURO 
-- Exclusiv Duft - Dior Sauvage Rare Blend by Baccarat: 50 ml Flakon inkl Verpackung 45 EURO 
+- Hochwertige Verpackung: 3 Euro
+- Exklusiv-Duft Dior Sauvage Rare Blend by Baccarat: 50 ml Flakon inkl. Verpackung 45 Euro
 
 VERSAND:
 Versand erfolgt mit DHL und kostet zusaetzlich 6,60 Euro.
@@ -386,7 +386,7 @@ async def cmd_start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = update.effective_user.id
     conversation_history[user_id] = []  # Reset
 
-    welcome = "Hallo! Ich bin Sillage, dein Parfum-Berater! Frag mich alles ueber Duefte aus aller Welt!"
+    welcome = "Hallo! Ich bin Duftii, dein Parfum-Berater! Frag mich alles ueber Duefte aus aller Welt!"
     await update.message.reply_text(welcome)
 
 
@@ -400,7 +400,7 @@ async def cmd_reset(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 async def cmd_help(update: Update, context: ContextTypes.DEFAULT_TYPE):
     text = (
-        "🌸 *Sillage – Dein Duftberater*\n\n"
+        "🌸 *Duftii – Dein Duftberater*\n\n"
         "Ich kenne tausende Parfüms und helfe dir bei:\n"
         "• Empfehlungen nach Geschmack, Anlass oder Budget\n"
         "• Duftnoten & Familien erklären\n"
@@ -448,7 +448,7 @@ async def welcome_new_member(update: Update, context: ContextTypes.DEFAULT_TYPE)
         name = member.first_name or "there"
         welcome_text = (
             f"Willkommen in der Gruppe Premium Parfums {name}! 🌸 "
-            "Ich bin Sillage, dein persönlicher Duftberater. Frag mich "
+            "Ich bin Duftii, dein persönlicher Duftberater. Frag mich "
             "einfach alles über Parfums – ich helfe dir gerne bei der "
             "Auswahl! Für Bestellungen: https://premium-telegram.netlify.app/ "
             "oder direkt bei @Dome_nicooo\n\n"
@@ -537,7 +537,7 @@ def main():
         MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message)
     )
 
-    logger.info("🌸 Sillage Parfum Bot läuft...")
+    logger.info("🌸 Duftii Parfum Bot läuft...")
     app.run_polling(allowed_updates=Update.ALL_TYPES)
 
 
