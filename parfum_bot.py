@@ -255,6 +255,25 @@ Zarkoperfume The Muse: Baumwollbluete, weisser Moschus, weisses Oud
 Ormonde Jayne Montabaco Rio: Kopf: Ananas, Bergamotte, Rhabarber, Kardamom | Herz: Mango, Papaya, Tee, Rose | Basis: Tabak, Wildleder, Sandelholz, Vanille, Tonkabohne
 Dubai Turath: Oriental, Oud, Rose, Amber, Sandelholz
 
+Arabian Oud Madawi: Kopf: Pfirsich, Apfelbluete | Herz: Ananasbluete | Basis: Wildrose, Moschus, Patschuli
+Argos Triumph of Bacchus: Kopf: Rum, weisser Pfirsich, gruener Apfel, Safran | Herz: Tonkabohne, Patschuli, Vetiver, Jasmin | Basis: Tabak, Vanille, Amber, Sandelholz, Moschus
+Ariana Grande Ari: Kopf: Birne, rosa Grapefruit, Himbeere | Herz: Maigloeckchen, Rosenknospen, Vanille-Orchidee | Basis: Marshmallow, blonde Hoelzer, Moschus
+Armani Code Homme: Kopf: Zitrone, Bergamotte | Herz: Sternanis, Olivenbluete, Guajakholz | Basis: Leder, Tonkabohne, Tabak
+Armani Code pour Femme: Kopf: italienische Orange, Jasmin, Bitterorange | Herz: Jasmin, Orangenbluete, Ingwer | Basis: Honig, Vanille, Sandelholz
+Armani My Way: Kopf: Orangenbluete, Bergamotte | Herz: Tuberose, indischer Jasmin | Basis: Madagaskar-Vanille, weisser Moschus, virginischer Zedernholz
+Armani Stronger With You Leather: Kopf: Kastanie, Gewuerze, Elemi | Herz: Lavendel, Salbei | Basis: Vanille, Leder, Guajakholz, Oud
+Armani Stronger With You Sandalwood: Kopf: Safran | Herz: Kastanie, Lavendel | Basis: Sandelholz, Zedernholz, Vanille
+Burberry Goddess: Kopf: Vanille, Lavendel, Kakao, Ingwer | Herz: Vanille-Kaviar | Basis: Vanille-Absolue
+Burberry Hero edP: Kopf: Kiefernnadeln, Olibanum | Herz: Benzoe, Weihrauch | Basis: Atlas-Zeder, Himalaya-Zeder, Virginia-Zeder
+Bvlgari Omnia Crystalline: Kopf: Bambus, Birne | Herz: Lotus, Tee, Cassia | Basis: Moschus, Guajakholz, Eichenmoos
+Cacharel Amor Amor: Kopf: schwarze Johannisbeere, Orange, Mandarine, Grapefruit, Cassia, Bergamotte | Herz: Rose, Aprikose, Jasmin, Lilie, Maigloeckchen | Basis: Vanille, Tonkabohne, Moschus, Amber, Virginia-Zeder
+Carolina Herrera 212 VIP Men: Kopf: Passionsfrucht, Limette, Pfeffer, Ingwer, Fingerlimette | Herz: Vodka, Gin, Minze, Gewuerze | Basis: Amber, Leder, holzige Noten
+Carolina Herrera Bad Boy: Kopf: weisser Pfeffer, Bergamotte, rosa Pfeffer | Herz: Zedernholz, Muskatellersalbei | Basis: Tonkabohne, Kakao
+Carolina Herrera La Bomba 2025: Kopf: Pitahaya (Drachenfrucht) | Herz: Frangipani, rote Pfingstrose | Basis: Vanille, Patschuli
+Carolina Herrera Stallion Leather Suede: Kopf: Leder | Herz: Zimt, Kardamom, Gewuerznelken | Basis: Vanille, Tonkabohne, Moschus
+Chanel Allure Sport Homme: Kopf: Orange, maritime Noten, Aldehyde, Blutmandarine | Herz: Pfeffer, Neroli, Zeder | Basis: Vanille, Tonkabohne, weisser Moschus, Amber, Vetiver, Elemi
+Chanel Chance Eau Fraiche: Kopf: Zitrone, Zeder, Cedrat | Herz: Wasserhyazinthe, rosa Pfeffer, Jasmin | Basis: weisser Moschus, Patschuli, Vetiver, Teakholz, Iris, Amber
+
 WICHTIGE REGELN - UNBEDINGT EINHALTEN (nochmal):
 0. Benutze KEINE Markdown-Formatierung! Kein *fett*, kein **bold**, keine Sternchen *, keine Unterstriche _! Nur normaler Text ohne jegliche Formatierung!
 1. Empfehle NUR Parfuems die in unserem Sortiment stehen
@@ -288,60 +307,88 @@ Weise bei Empfehlungen gerne auf unsere guenstigen Preise hin!
 
 WICHTIG - UNSER SORTIMENT:
 Wenn jemand nach einer Empfehlung fragt, empfehle BEVORZUGT Parfuems aus unserem Sortiment und weise darauf hin dass diese verfuegbar sind:
-
 Acqua di Parma: Fico di Amalfi
 Amouage: Essence Outlands, Reflection, Interlude, Sinbad (auch bekannt als Elsewhere / Sindbad), Guidance, Guidance 46
-Armani: Sì, Acqua di Gio profumo, Stronger With You Absolutely, Stronger With You Amber, Stronger With You Intensely
+Arabian Oud: Madawi
+Argus: Triumph of Bacchus
+Ariana Grande: Ari
+Armani: Sì, Acqua di Gio profumo, Stronger With You Absolutely, Stronger With You Amber, Stronger With You Intensely, Code Homme, Code pour femme, My Way, Stronger with You leather, Stronger with You Sandalwood
 Armani Privé: Vert Malachite
 BDK: Extrait Gris Charnel
 Boadicea the Victorious: 1907
-Burberry: Her Elixir
-Bvlgari: Tygar, Man in Black
-Carolina Herrera: Good Girl
+Burberry: Her Elixir, Goddess, Hero edP
+Bvlgari: Tygar, Man in Black, Omnia Crystalline
+Cacharel: Amor Amor
+Carolina Herrera: Good Girl, 212 VIP Men, Bad Boy, La Bomba 2025, Stallion leather suede
 Casamorati: Dolce Amalfi, Mefisto
-Chanel: N°5, Coco Mademoiselle, Bleu de Chanel
+Chanel: N°5, Coco Mademoiselle, Bleu de Chanel, Allure Sport Homme, Chance Eau Fraîche, Chance Eau Tendre EdT
 Chloé: Chloé
-Clive Christian: Jump Up and Kiss Me Hedonistic, Blonde Amber, No. 1
+Clive Christian: Jump Up and Kiss Me Hedonistic, Blonde Amber, No. 1, 1872 for men
 Creed: Aventus, Absolu Aventus, Millésime Impérial, Virgin Island
 D&G: Devotion, The One for Men, Light Blue
-Dior: J'adore, Hypnotic Poison, Sauvage Elixir, Sauvage Rare Blend by Baccarat, Oud Ispahan, Tabacolor
-Diptyque: Philosykos
+Davidoff: Cool water
+De Marly: Sedley
+Diesel: Loverdose
+Dior: J'adore, Hypnotic Poison, Sauvage Elixir, Sauvage Rare Blend by Baccarat, Oud Ispahan, Tabacolor, Absolutely Blooming, Addict edp (2014), Dior Homme Intense, Fahrenheit, Miss blooming bouquet, Miss Dior Cherie, Miss Dior EdP 2021
+Diptyque: Philosykos, Tam Dao EdP
+Dolce & Gabbana: The One For Men Gold
 Dubai: Turath
+Elie Saab: Le Parfum
 Escentric Molecules: Molecule 01
+Essentials: Bois imperial
 Ex Nihilo: Fleur Narcotique, Blue Talisman
 Giardini di Toscana: Bianco Latte
-Gisada: Ambassador Women, Ambassador Intense
-Gucci: Flora
+Gisada: Ambassador Women, Ambassador Intense, Ambassador for Men
+Givenchy: L'Interdit Absolu 2024
+Gritti: Mango Aoud
+Gucci: Flora, Elixir de parfum
 Guerlain: Mon Guerlain
 Hermès: H24, Terre d'Hermès
+Hugo Boss: The Scent Magnetic for Him
+Initio: Oud for Happiness
 Initio Parfums Privés: Rehab, Side Effect, Oud for Greatness
+Jacques Bogart: Silver Scent
 Jean Paul Gaultier: Scandal, Divine, Gaultier², Le Male Elixir, Ultra Male, Le Beau, Scandal Pour Homme
 Joop: Night Flight
 Kajal: Äican
 Kayali: Eden Sparkling Lychee | 39, Yum Boujee Marshmallow | 81, Maui In A Bottle Sweet Banana | 37, Capri Lemon Sugar | 14, Lovefest Burning Cherry 48, Maldives In A Bottle Ylang Coco | 20, Vanilla 28, Yum Pistachio Gelato | 33, Vanilla Candy Rock Sugar | 42
+Kilian: Love don't be shy
 Kilian Paris: Angels' Share, Sunkissed Goddess, Angel Share Paradise, Moonlight in Heaven, Apple Brandy on the Rocks, Angel Share On the Rocks
+Lattafa: Khamrah
 Lorenzo Pazzaglia: Summer Hammer
-Louis Vuitton: Les Sables Roses, Météore, Ombre Nomade, On the Beach, Pacific Chill, Afternoon Swim, Imagination, Orage
-Maison Francis Kurkdjian: 724, Baccarat Rouge 540, Oud Satin Mood, Grand Soir
+Louis Vuitton: Les Sables Roses, Météore, Ombre Nomade, On the Beach, Pacific Chill, Afternoon Swim, Imagination, Orage, California dream
+M Antoine Barrois: Tilia
+Maison Crivelli: Tubereuse Astrale
+Maison Francis Kurkdjian: 724, Baccarat Rouge 540, Oud Satin Mood, Grand Soir, Gentle Fluidity Gold
+Maison Margiela: Jazz Club
+Mancera: Red Tobacco
 Marc Gebauer: Orange Flamingo
-Montale: Roses Musk, Arabians Tonka, Intens Café
-Mugler: Alien
+Montale: Roses Musk, Arabians Tonka, Intens Café, Honey oud, Infinity, Oud sapparot, Pure Gold
+Mugler: Alien, Angel Elixir
+Narcisio Rodriguez: For Her Pure Musc Blanc
 Narciso Rodriguez: For Her Pure Musc, Poudrée, Amber MUSC, For Her Pure Musc Blanc
 Nasomatto: Black Afgano
-Nishane: Nefs
+Nishane: Nefs, Ani, Hacivat, Wu long
 Ormonde Jayne: Montabaco Rio
+Orto Parisi: Megamare
+Paco Rabanne: Phantom
 Parfums de Marly: Valaya, Delina + Valaya Spezial, Delina Exclusif, Carlisle, Greenley, Herod, Layton, Percival, Althaïr, Oajan, Kalan, Pegasus
-Prada: Paradoxe Intense, Paradoxe, Paradox Virtual Flower, L'Homme
+Prada: Paradoxe Intense, Paradoxe, Paradox Virtual Flower, L'Homme, Candy, Luna Rossa Ocean
+Roja: Apex
 Roja Parfums: A Goodnight Kiss, Elysium, Oceania
 Sospiro: Il Padrino
 Stéphane Humbert Lucas: God of Fire
-Tiziana Terenzi: Kirke
-Tom Ford: Café Rose, Vanilla Sex, Black Orchid, Mandarino di Amalfi, Tobacco Vanille, Fucking Fabulous, Ombré Leather, Neroli Portofino, Soleil Blanc, Smoke Cherry, Lost Cherry, Oud Wood
-Valentino: Born in Roma Donna, Born in Roma Donna Coral Fantasy
-Versace: Eros Pour Femme
+Tiziana Terenzi: Kirke, Orion, Tabit
+Tom Ford: Café Rose, Vanilla Sex, Black Orchid, Mandarino di Amalfi, Tobacco Vanille, Fucking Fabulous, Ombré Leather, Neroli Portofino, Soleil Blanc, Smoke Cherry, Lost Cherry, Oud Wood, Bitter Peach, Noir de noir, Noir extreme
+Valentino: Born in Roma Donna, Born in Roma Donna Coral Fantasy, Donna Born in Roma coral fantasy, Uomo born in Roma
+Versace: Eros Pour Femme, Bright Crystal, Crystal Noir, Eros Najim
+Victoria Secret: Bombshell
+Viktor & Rolf: Spicebomb Infrared EdT
 Widian: London
-Xerjoff: Accento, Torino21, Naxos, Alexandria II, Erba Pura, Erba Gold, Muse, Opera, Uden, 40 Knots, Amber Star, Star Musk, 7
+Xerjoff: Accento, Torino21, Naxos, Alexandria II, Erba Pura, Erba Gold, Muse, Opera, Uden, 40 Knots, Amber Star, Star Musk, 7, La capitale, Lira
 YSL: Black Opium, Libre, Tuxedo
+Yves Saint Laurent: Y (2021)
+Zadig & Voltaire: This is her
 Zarkoperfume: The Muse"""
 
 MAX_HISTORY = 20  # Nachrichten im Verlauf behalten
