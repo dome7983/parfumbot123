@@ -89,19 +89,19 @@ Amouage Reflection Man: Kopf: Rosmarin, roter Pfeffer, Bitterorangenblatt | Herz
 Amouage Interlude Man: Kopf: Bergamotte, Oregano, Piment | Herz: Amber, Weihrauch, Zistrose | Basis: Leder, Oud, Patschuli, Sandelholz
 Amouage Guidance: Kopf: Birne, Weihrauch, Haselnuss | Herz: Safran, Rose, Sambac-Jasmin, Osmanthus | Basis: Zistrose, Sandelholz, Ambra, Vanille
 Amouage Guidance 46: Kopf: Birne, Weihrauch, Haselnuss, Rosenwasser, Rosa Pfeffer | Herz: Safran, Rose, Osmanthus | Basis: Sandelholz, Vanille
-Amouage Essence Outlands: Kopf: Weihrauch, Kardamom, Elemi, Zitrone, Bergamotte, Sichuan-Pfeffer | Herz: Patschuli, Anis, Koriander, Kreuzkuemmel, Safran, Wermut, Orangenbluete, Geranie, Rose | Basis: Weihrauch, Vanille, Amber, Benzoe, Oud, Opoponax, Birkenholz, Ambergris, Labdanum, Moschus
+Amouage Essence Outlands: Kopf: Weihrauch, Kardamom, Elemi, Zitrone, Bergamotte, Sichuan-Pfeffer | Herz: Patschuli, Anis, Koriander, Kreuzkümmel, Safran, Wermut, Orangenblüte, Geranie, Rose | Basis: Weihrauch, Vanille, Amber, Benzoe, Oud, Opoponax, Birkenholz, Ambergris, Labdanum, Moschus
 Amouage Elsewhere / Sindbad: Kopf: Honig, Aprikose, Kardamom, Granatapfel, Ingwer, Tangerine, Mango, Grapefruit, rosa Pfeffer | Herz: Cappuccino, schwarzer Tee, Davana | Basis: Zedernholz, Tonkabohne, Vanille, Cypriol, Vetiver, Patschuli, Labdanum
-Armani Prive Vert Malachite: Kopf: Orange, Petitgrain | Herz: Jasmin-Sambac Absolue, Ylang-Ylang | Basis: Vanille, weisse Lilie, Benzoe. Blumig, suess, cremig, gruen, frisch.
+Armani Prive Vert Malachite: Kopf: Orange, Petitgrain | Herz: Jasmin-Sambac Absolue, Ylang-Ylang | Basis: Vanille, weisse Lilie, Benzoe. Blumig, süss, cremig, grün, frisch.
 Armani Si: Kopf: Cassis | Herz: Freesie, Mairose | Basis: Vanille, Patschuli, Ambroxan
 Armani Acqua di Gio Profumo: Kopf: Bergamotte, maritime Noten | Herz: Geranie, Rosmarin, Salbei | Basis: Patschuli, Weihrauch
 Armani Stronger With You Absolutely: Kopf: Rum, Elemiharz, Bergamotte | Herz: Lavendel, Davana | Basis: Kastanie, Vanille, Patschuli, Zedernholz
 Armani Stronger With You Amber: Kopf: Lavendel | Herz: Kardamom | Basis: Amber, Vanille
 Armani Stronger With You Intensely: Kopf: Rosa Pfeffer, Wacholder, Veilchen | Herz: Lavendel, Salbei, Toffee, Zimt | Basis: Amber, Tonkabohne, Vanille, Wildleder
 BDK Gris Charnel: Kopf: Feige, schwarzer Tee, Kardamom | Herz: Iris, Bourbon-Vetiver | Basis: Sandelholz, Tonkabohne
-Boadicea the Victorious 1907: Kopf: Kardamom, Zimt, rosa Pfeffer, Zitrone | Herz: Muskat, Salbei, Kaschmir, Veilchen | Basis: Benzoe, Moos, Moschus, Zedernholz, Tonkabohne, Amber, Tabak. Wuerzig, sinnlich, tief.
+Boadicea the Victorious 1907: Kopf: Kardamom, Zimt, rosa Pfeffer, Zitrone | Herz: Muskat, Salbei, Kaschmir, Veilchen | Basis: Benzoe, Moos, Moschus, Zedernholz, Tonkabohne, Amber, Tabak. Würzig, sinnlich, tief.
 Burberry Her Elixir: Kopf: Erdbeere, Brombeere | Herz: Jasmin | Basis: Vanille, Amber, Sandelholz
 Bvlgari Tygar: Kopf: Grapefruit | Herz: Ingwer, Ambrette | Basis: Ambroxan, Vetiver, Moschus
-Bvlgari Man in Black: Kopf: Gewuerze, Rum, Tabak | Herz: Leder, Iris, Tuberose | Basis: Tonkabohne, Guajakholz, Benzoe
+Bvlgari Man in Black: Kopf: Gewürze, Rum, Tabak | Herz: Leder, Iris, Tuberose | Basis: Tonkabohne, Guajakholz, Benzoe
 Byredo Blanche: Kopf: Weisse Rose, Rosa Pfeffer, Aldehyde | Herz: Veilchen, Neroli, Pfingstrose | Basis: Sandelholz, Moschus
 Carolina Herrera Good Girl: Kopf: Mandel, Kaffee, Bergamotte | Herz: Jasmin-Sambac, Tuberose, Iris, Rose | Basis: Tonkabohne, Kakao, Sandelholz, Vanille, Praline
 Casamorati Dolce Amalfi: Kopf: Apfel, Safran, Quitte, Kardamom | Herz: Nelke, Weihrauch | Basis: Vanille, Tonkabohne, Zedernholz, Moschus, Amber
@@ -117,20 +117,20 @@ Creed Aventus: Kopf: Ananas, Bergamotte, schwarze Johannisbeere, Apfel | Herz: B
 Creed Absolu Aventus: Kopf: Bergamotte, Zitrone, schwarze Johannisbeere, Grapefruit, Ingwer | Herz: Ananas, Patschuli, Rosa Pfeffer, Kardamom, Zimt | Basis: Vetiver, Cashmeran, Ambroxan, Moschus
 Creed Millesime Imperial: Kopf: Fruchtige Noten, Meersalz | Herz: Iris, Mandarine, Zitrone, Bergamotte | Basis: Moschus, maritime Noten
 Creed Virgin Island Water: Kopf: Kokosnuss, Limette, Bergamotte, Mandarine | Herz: Ingwer, Ylang-Ylang, Jasmin | Basis: weisser Rum, Zuckerrohr, Moschus
-D&G Devotion: Kopf: Kandierte Zitrone | Herz: Orangenbluete, Rum | Basis: Vanille
-D&G The One for Men: Kopf: Grapefruit, Koriander, Basilikum | Herz: Orangenbluete, Ingwer, Kardamom | Basis: Tabak, Amber, Zedernholz
+D&G Devotion: Kopf: Kandierte Zitrone | Herz: Orangenblüte, Rum | Basis: Vanille
+D&G The One for Men: Kopf: Grapefruit, Koriander, Basilikum | Herz: Orangenblüte, Ingwer, Kardamom | Basis: Tabak, Amber, Zedernholz
 D&G Light Blue: Kopf: Sizilianische Zitrone, Apfel, Zeder | Herz: Bambus, Jasmin, weisse Rose | Basis: Zeder, Moschus, Amber
 Dior Jadore: Kopf: Birne, Melone, Magnolie, Mandarine, Bergamotte | Herz: Jasmin, Maiglöckchen, Tuberose, Rose | Basis: Moschus, Vanille, Zeder
 Dior Hypnotic Poison: Kopf: Aprikose, Pflaume, Kokosnuss | Herz: Tuberose, Jasmin, Rose | Basis: Sandelholz, Mandel, Vanille, Moschus
-Dior Sauvage Elixir: Kopf: Zimt, Muskat, Kardamom, Grapefruit | Herz: Lavendel | Basis: Suessholz, Sandelholz, Amber, Patschuli, Vetiver
-Dior Sauvage Rare Blend by Baccarat: Hauptakkorde: ambriert, Oud, Vanille, moschusartig, balsamisch, holzig, suess, pudrig. Kein klassisches Kopf/Herz/Basis-Schema bekannt, sehr intensiver Oud-Amber-Duft.
+Dior Sauvage Elixir: Kopf: Zimt, Muskat, Kardamom, Grapefruit | Herz: Lavendel | Basis: Süssholz, Sandelholz, Amber, Patschuli, Vetiver
+Dior Sauvage Rare Blend by Baccarat: Hauptakkorde: ambriert, Oud, Vanille, moschusartig, balsamisch, holzig, süss, pudrig. Kein klassisches Kopf/Herz/Basis-Schema bekannt, sehr intensiver Oud-Amber-Duft.
 Dior Oud Ispahan: Kopf: Labdanum | Herz: Patschuli, Rose, Safran | Basis: Oud, Sandelholz, Zedernholz
 Dior Tabacolor: Tabakblatt, Honig, Rauch, Pflaume, orientalischer Tabak, Pfirsich, Amber
-Diptyque Philosykos: Kopf: Feigenblatt, Feige | Herz: Kokosnuss, gruene Noten | Basis: Zedernholz, Feigenbaum
+Diptyque Philosykos: Kopf: Feigenblatt, Feige | Herz: Kokosnuss, grüne Noten | Basis: Zedernholz, Feigenbaum
 Escentric Molecules Molecule 01: Iso E Super - holziger Duft der auf der Haut unterschiedlich wirkt
 Escentric Molecules Molecule 02: Ambroxan - amber-muskalisch, wirkt wie ein zweiter Hautduft
-Ex Nihilo Blue Talisman: Kopf: Bergamotte, Mandarine, Ingwer, Birne | Herz: Orangenbluete, Georgywood | Basis: Akigalawood, Moschus
-Ex Nihilo Fleur Narcotique: Kopf: Bergamotte, Litschi, Pfirsich | Herz: Jasmin, Pfingstrose, Orangenbluete | Basis: transparentes Holz, Moos, Moschus
+Ex Nihilo Blue Talisman: Kopf: Bergamotte, Mandarine, Ingwer, Birne | Herz: Orangenblüte, Georgywood | Basis: Akigalawood, Moschus
+Ex Nihilo Fleur Narcotique: Kopf: Bergamotte, Litschi, Pfirsich | Herz: Jasmin, Pfingstrose, Orangenblüte | Basis: transparentes Holz, Moos, Moschus
 Giardini di Toscana Bianco Latte: Kopf: Karamell | Herz: Cumarin, Honig | Basis: Vanille, weisser Moschus
 Gisada Ambassador Women: Kopf: Birne, Aprikose, Bergamotte | Herz: Pflaume, Tuberose, Freesie, Rose | Basis: Vanille, Tonkabohne, Moschus, Patschuli
 Gisada Ambassador Intense: Kopf: Bergamotte, Mandarine, Lavendel, Kardamom, rosa Pfeffer | Herz: Himbeere, Nelke, Orchidee, Karamell | Basis: Tonkabohne, Vanille, Leder, Patschuli, Amber
@@ -139,38 +139,38 @@ Guerlain Mon Guerlain: Kopf: Lavendel, Bergamotte | Herz: Sambac-Jasmin, Iris, R
 Hermes H24: Muskatellersalbei, Narzisse, Rosenholz, Sclarene
 Hermes Terre d Hermes: Kopf: Orange, Grapefruit | Herz: Pfeffer, Geranie | Basis: Vetiver, Zedernholz, Patschuli, Benzoe
 Initio Rehab: Kopf: Bergamotte, Lavendel | Herz: Vetiver, Zeder, Patschuli | Basis: Guajakholz, Sandelholz, Moschus
-Initio Side Effect: Tabak, Vanille, Rum, Zimt - suess und warm
-Initio Oud for Greatness: Kopf: Lavendel, Safran, Muskat | Herz: natuerliches Oud | Basis: Patschuli, Moschus
+Initio Side Effect: Tabak, Vanille, Rum, Zimt - süss und warm
+Initio Oud for Greatness: Kopf: Lavendel, Safran, Muskat | Herz: natürliches Oud | Basis: Patschuli, Moschus
 Jean Paul Gaultier Le Male Elixir: Kopf: Lavendel, Minze | Herz: Vanille, Benzoe | Basis: Honig, Tabak, Tonkabohne
-Jean Paul Gaultier Scandal: Kopf: Blutorange, Mandarine | Herz: Honig, Gardenie, Orangenbluete, Jasmin | Basis: Bienenwachs, Karamell, Patschuli
+Jean Paul Gaultier Scandal: Kopf: Blutorange, Mandarine | Herz: Honig, Gardenie, Orangenblüte, Jasmin | Basis: Bienenwachs, Karamell, Patschuli
 Jean Paul Gaultier Ultra Male: Kopf: Birne, Lavendel, Minze, Bergamotte | Herz: Zimt, Salbei | Basis: schwarze Vanille, Amber, Patschuli
 Jean Paul Gaultier Le Beau: Kopf: Bergamotte | Herz: Kokosnussholz | Basis: Tonkabohne
 Jean Paul Gaultier Scandal Pour Homme: Kopf: Muskatellersalbei, Mandarine | Herz: Karamell, Tonkabohne | Basis: Vetiver
 Jean Paul Gaultier Divine: Kopf: rote Beeren, Bergamotte | Herz: Lilie, Ylang-Ylang, Jasmin | Basis: Moschus, Patschuli
-Jean Paul Gaultier Gaultier2: Amber, Vanille, Moschus - warmer, suesser Dreiklang-Duft (kein klassisches Kopf/Herz/Basis-Schema, nur diese drei dominanten Noten)
+Jean Paul Gaultier Gaultier2: Amber, Vanille, Moschus - warmer, süsser Dreiklang-Duft (kein klassisches Kopf/Herz/Basis-Schema, nur diese drei dominanten Noten)
 Jo Malone Myrrh & Tonka: Kopf: Lavendel | Herz: Myrrhe | Basis: Tonkabohne, Vanille, Mandel
 Joop Nightflight: Kopf: Ananas, Lavendel, Zitrone, Bergamotte | Herz: Jasmin, Rose, Geranie | Basis: Mandel, Tonkabohne, Moschus, Sandelholz, Amber
-Kajal Aican: Kopf: Passionsfrucht, Ananas, Mandarine | Herz: Ingwer, Jasmin, schwarzer Pfeffer | Basis: Moschus, Praline, Vanille, Amber, Patschuli. Fruchtig, suess, wuerzig, cremig, gourmand.
+Kajal Aican: Kopf: Passionsfrucht, Ananas, Mandarine | Herz: Ingwer, Jasmin, schwarzer Pfeffer | Basis: Moschus, Praline, Vanille, Amber, Patschuli. Fruchtig, süss, würzig, cremig, gourmand.
 Kayali Eden Sparkling Lychee 39: Kopf: schwarze Johannisbeere, Litschi, Zitrone, roter Apfel | Herz: Rose, Sambac-Jasmin, kandiertes Veilchen | Basis: Amber, Sandelholz, Moschus, Vanille
 Kayali Burning Cherry 48: Kopf: schwarze Kirsche, Himbeere, Bergamotte | Herz: Praline, Heliotrop, Damaszener Rose | Basis: Palo Santo, Guajakholz, Patschuli, Tonkabohne, Vetiver
 Kayali Vanilla 28: Kopf: Vanille-Orchidee, Jasmin | Herz: brauner Zucker, Tonkabohne | Basis: Amber, Moschus, Patschuli
 Kayali Yum Pistachio Gelato 33: Kopf: Pistazie, Bergamotte, Haselnuss, Rum | Herz: Jasmin, Pfingstrose | Basis: Marshmallow, Kakao, Sandelholz, Tonkabohne
 Kayali Vanilla Candy 42: Kopf: Kandierte Birne, Rum, Marshmallow | Herz: Jasmin, Karamell | Basis: Tonkabohne, Sandelholz, Patschuli
-Kayali Marshmallow: Suess, weich, pudrig, muskalisch
-Kayali Lemon Sugar: Frisch, zitrusig, suess
-Kayali Sweet Banana: Fruchtig, suess, tropisch
-Kayali Coco: Kokosnuss, suess, tropisch
+Kayali Marshmallow: Süss, weich, pudrig, muskalisch
+Kayali Lemon Sugar: Frisch, zitrusig, süss
+Kayali Sweet Banana: Fruchtig, süss, tropisch
+Kayali Coco: Kokosnuss, süss, tropisch
 Kilian Angels Share: Kopf: Cognac | Herz: Eichenholz, Zimt, Tonkabohne | Basis: Praline, Vanille, Sandelholz
 Kilian Apple Brandy on the Rocks: Kopf: Kardamom, Bergamotte | Herz: Apfel, Rum, Ananas, Vanille | Basis: Zedernholz, Ambroxan
 Kilian Sunkissed Goddess: Kopf: Bergamotte, Neroli | Herz: Tuberose, Ylang-Ylang | Basis: Kokosnuss, Vanille, Guajakholz
 Kilian Straight to Heaven: Kopf: Muskatnuss | Herz: Patschuli, Rum | Basis: Zedernholz, Moschus, Vanille, Amber
 Kilian Moonlight in Heaven: Kopf: Grapefruit, Zitrone, rosa Pfeffer | Herz: Kokosnuss, Reis, Mango | Basis: Tonkabohne, Vetiver
 Kilian Smoking Hot: Kopf: Apfel, Zimt, Rauch | Herz: Kentucky Tabak, Eichenmoos | Basis: Bourbon-Vanille
-Kilian Angel Share On the Rocks: Kopf: Zitrone, Bitterorange, Grapefruit, Bergamotte, Aldehyde | Herz: Venezolanische Tonkabohne, Bernstein, Cognac, Zimt, Myrrhe | Basis: Eichenholz. SUESS, ZITRUSIG, FRISCH!
-Kilian Angel Share Paradise: Suess, fruchtig, oriental - Variation von Angels Share
+Kilian Angel Share On the Rocks: Kopf: Zitrone, Bitterorange, Grapefruit, Bergamotte, Aldehyde | Herz: Venezolanische Tonkabohne, Bernstein, Cognac, Zimt, Myrrhe | Basis: Eichenholz. SÜSS, ZITRUSIG, FRISCH!
+Kilian Angel Share Paradise: Süss, fruchtig, oriental - Variation von Angels Share
 Maison Francis Kurkdjian 724: Kopf: Aldehyde, Bergamotte | Herz: Jasmin, Wicke | Basis: weisser Moschus, Sandelholz
-Maison Francis Kurkdjian Baccarat Rouge 540: Kopf: Safran, Jasmin | Herz: Amberwood, Ambergris | Basis: Tannenharz, Zedernholz. Suess, blumig, amber.
-Maison Francis Kurkdjian Oud Satin Mood: bulgarische Rose, tuerkische Rose, Oud, Benzoe, Vanille, Veilchen
+Maison Francis Kurkdjian Baccarat Rouge 540: Kopf: Safran, Jasmin | Herz: Amberwood, Ambergris | Basis: Tannenharz, Zedernholz. Süss, blumig, amber.
+Maison Francis Kurkdjian Oud Satin Mood: bulgarische Rose, türkische Rose, Oud, Benzoe, Vanille, Veilchen
 Maison Francis Kurkdjian Grand Soir: Labdanum, Benzoe, Tonkabohne, Vanille, Amber. Warm und oriental.
 Marc Gebauer Orange Flamingo: Kopf: Orange, Blutorange, Mandarine | Herz: Rose, Jasmin, Lilie, Veilchen | Basis: Zeder, Moschus, Sandelholz
 Montale Arabians Tonka: Kopf: Safran, Bergamotte | Herz: Oud, bulgarische Rose | Basis: Tonkabohne, Amber, Moschus
@@ -178,11 +178,11 @@ Montale Roses Musk: Rose, Jasmin, Moschus
 Montale Intense Cafe: Kopf: florale Noten | Herz: Rose, Kaffee | Basis: Vanille, weisser Moschus, Amber
 Mugler Alien: Kopf: Sambac-Jasmin | Herz: Cashmeran | Basis: weisser Amber
 Mango Kiss: Kopf: Mango, Brombeere, Apfel | Herz: Iris, Lotus, Jasmin | Basis: Patschuli, Vanille, Moschus
-Narciso Rodriguez For Her Pure Musc: sauber, muskalisch, weisse Blueten - sehr dezent
-Narciso Rodriguez Poudree: Kopf: Rose, Jasmin, Orangenbluete | Herz: Moschus | Basis: Vetiver, Zeder, Cumarin, Patschuli
-Narciso Rodriguez Amber Musc: Kopf: Orangenbluete, Moschus | Herz: Oud, Patschuli, Leder | Basis: Amber, Vanille, Weihrauch
-Narciso Rodriguez For Her Pure Musc Blanc: Kopf: Aldehyde, klare Noten, Jasmin, Bergamotte | Herz: Moschus, weisse Blueten | Basis: Vanille, Zedernholz, Amber
-Nasomatto Black Afgano: Kopf: Cannabis, gruene Noten | Herz: Harze, Kaffee, Tabak | Basis: Weihrauch, Oud
+Narciso Rodriguez For Her Pure Musc: sauber, muskalisch, weisse Blüten - sehr dezent
+Narciso Rodriguez Poudree: Kopf: Rose, Jasmin, Orangenblüte | Herz: Moschus | Basis: Vetiver, Zeder, Cumarin, Patschuli
+Narciso Rodriguez Amber Musc: Kopf: Orangenblüte, Moschus | Herz: Oud, Patschuli, Leder | Basis: Amber, Vanille, Weihrauch
+Narciso Rodriguez For Her Pure Musc Blanc: Kopf: Aldehyde, klare Noten, Jasmin, Bergamotte | Herz: Moschus, weisse Blüten | Basis: Vanille, Zedernholz, Amber
+Nasomatto Black Afgano: Kopf: Cannabis, grüne Noten | Herz: Harze, Kaffee, Tabak | Basis: Weihrauch, Oud
 Nishane Nefs: Kopf: Honig, Veilchen, Salbei, Safran, Feige | Herz: Rose, Osmanthus, Geranie, Jasmin | Basis: Amber, Whiskey, Oud, Zimt, Zeder, Leder, Vanille
 Uniquee Luxury Kutay: Kopf: Bergamotte, Zitrone, Davana, Whiskey | Herz: Oud, Karamell | Basis: Sandelholz, Tabak, Amber, Vanille
 Louis Vuitton Les Sables Roses: Rose, Oud, Ambergris, schwarzer Pfeffer, Safran
@@ -191,122 +191,122 @@ Louis Vuitton Ombre Nomade: Oud, Geranie, Himbeere, Rose, Amberwood, Benzoe, Wei
 Louis Vuitton On the Beach: Kopf: Yuzu, Neroli | Herz: Rosmarin, Sand, Thymian, rosa Pfeffer | Basis: Zypresse
 Louis Vuitton Pacific Chill: Kopf: Orange, Zitrone, Minze, Koriander | Herz: Basilikum, Aprikose | Basis: Feige, Dattel
 Louis Vuitton Afternoon Swim: Mandarine, Orange, Bergamotte - frisch und zitrusig
-Louis Vuitton Imagination: FRISCH, ZITRUSIG, AQUATISCH, GRUEN, WUERZIG - Chinesischer schwarzer Tee, kalabrische Bergamotte, Ambrox, nigerianischer Ingwer, Ceylon-Zimt, sizilianische Zeder, tunesisches Neroli. KEIN schwerer Duft!
+Louis Vuitton Imagination: FRISCH, ZITRUSIG, AQUATISCH, GRUEN, WÜRZIG - Chinesischer schwarzer Tee, kalabrische Bergamotte, Ambrox, nigerianischer Ingwer, Ceylon-Zimt, sizilianische Zeder, tunesisches Neroli. KEIN schwerer Duft!
 Louis Vuitton Orage: Kopf: Bergamotte, Grapefruit | Herz: Iris, Pfeffer | Basis: Patschuli, Vetiver, Moschus
 Louis Vuitton Attrape Reves: Kopf: Litschi, Ingwer, Bergamotte | Herz: Pfingstrose, Kakao, Rose | Basis: Patschuli
-Lorenzo Pazzaglia Black Sea: Kopf: Meersalz, Ozon, Bergamotte, Myrte | Herz: Algen, Orangenbluete | Basis: Ambergris, Eichenmoos, Moschus, Patschuli
+Lorenzo Pazzaglia Black Sea: Kopf: Meersalz, Ozon, Bergamotte, Myrte | Herz: Algen, Orangenblüte | Basis: Ambergris, Eichenmoos, Moschus, Patschuli
 Summer Hammer: Kopf: Mango, Ananas, Kokosnuss, Rum, Bergamotte | Herz: Kokosmilch, marine Noten | Basis: Vetiver, Moschus, Sandelholz, Amber
-Parfums de Marly Carlisle: Kopf: gruener Apfel, Muskat | Herz: Tonkabohne, Osmanthus, Davana, Rose | Basis: Vanille, Patschuli
-Parfums de Marly Greenley: Kopf: gruener Apfel, Bergamotte, Mandarine | Herz: Cashmeran, Zedernholz, Veilchen | Basis: Eichenmoos, Moschus, Amberwood
+Parfums de Marly Carlisle: Kopf: grüner Apfel, Muskat | Herz: Tonkabohne, Osmanthus, Davana, Rose | Basis: Vanille, Patschuli
+Parfums de Marly Greenley: Kopf: grüner Apfel, Bergamotte, Mandarine | Herz: Cashmeran, Zedernholz, Veilchen | Basis: Eichenmoos, Moschus, Amberwood
 Parfums de Marly Herod: Kopf: Zimt, Pfefferholz | Herz: Osmanthus, Tabakblatt, Weihrauch, Labdanum | Basis: Vanille, Zeder, Vetiver, Moschus
 Parfums de Marly Layton: Kopf: Apfel, Lavendel, Bergamotte, Mandarine | Herz: Geranie, Veilchen, Jasmin | Basis: Vanille, Kardamom, Sandelholz, Patschuli
 Parfums de Marly Percival: Kopf: Bergamotte, Mandarine, rosa Pfeffer, Lavendel | Herz: Jasmin, Koriander, Veilchen, Zimt | Basis: Moschus, Amberwood
-Parfums de Marly Valaya: Kopf: weisser Pfirsich, Bergamotte, Mandarine | Herz: Orangenbluete, Vetiver | Basis: Akigalawood, Moschus, Vanille
-Parfums de Marly Althaïr: Kopf: Orangenbluete, Bergamotte, Zimt, Kardamom | Herz: Bourbon-Vanille | Basis: Guajakholz, Praline, Moschus
+Parfums de Marly Valaya: Kopf: weisser Pfirsich, Bergamotte, Mandarine | Herz: Orangenblüte, Vetiver | Basis: Akigalawood, Moschus, Vanille
+Parfums de Marly Althaïr: Kopf: Orangenblüte, Bergamotte, Zimt, Kardamom | Herz: Bourbon-Vanille | Basis: Guajakholz, Praline, Moschus
 Parfums de Marly Oajan: Kopf: Zimt, Honig, Osmanthus | Herz: Benzoe, Labdanum, Ambergris | Basis: Patschuli, Moschus, Vanille, Tonkabohne
-Parfums de Marly Kalan: Kopf: rote Orange, schwarzer Pfeffer | Herz: Lavendel, Orangenbluete, Kaschmirholz | Basis: Moos, Sandelholz, Tonkabohne, Amber
+Parfums de Marly Kalan: Kopf: rote Orange, schwarzer Pfeffer | Herz: Lavendel, Orangenblüte, Kaschmirholz | Basis: Moos, Sandelholz, Tonkabohne, Amber
 Parfums de Marly Delina Exclusif: Kopf: Birne, Litschi, Grapefruit | Herz: Damaszener Rose, Weihrauch, Vetiver | Basis: Vanille, Moschus
-Parfums de Marly Pegasus Exclusif: Kopf: Kardamom, Heliotrop, rosa Pfeffer, Bergamotte | Herz: Bittermandel, Lavendel, Jasmin, Rosengeranie | Basis: Guajakholz, Sandelholz, Vanille, Amber, Oud. Holzig, suess, wuerzig, orientalisch, cremig.
+Parfums de Marly Pegasus Exclusif: Kopf: Kardamom, Heliotrop, rosa Pfeffer, Bergamotte | Herz: Bittermandel, Lavendel, Jasmin, Rosengeranie | Basis: Guajakholz, Sandelholz, Vanille, Amber, Oud. Holzig, süss, würzig, orientalisch, cremig.
 Stephane Humbert Lucas God of Fire: Kopf: Mango, Zitrone, rote Beeren, Ingwer | Herz: Cumarin, Jasmin | Basis: Oud, Moschus, Amber
 Tiziana Terenzi Kirke: Kopf: Passionsfrucht, Pfirsich, Himbeere, Cassis, Birne | Herz: Maiglöckchen | Basis: Heliotrop, Sandelholz, Vanille, Moschus
-Prada Paradoxe: Kopf: Birne, Tangerine, Bergamotte | Herz: Orangenbluete, Neroli, Sambac-Jasmin | Basis: Bourbon-Vanille, Moschus, Amber
+Prada Paradoxe: Kopf: Birne, Tangerine, Bergamotte | Herz: Orangenblüte, Neroli, Sambac-Jasmin | Basis: Bourbon-Vanille, Moschus, Amber
 Prada Paradoxe Intense: Kopf: Birne, Neroli, Bergamotte | Herz: Moos, Jasmin, Neroli | Basis: Bourbon-Vanille, Moschus, Amber
 Prada Paradoxe Virtual Flower: Kopf: Bergamotte | Herz: Jasmin, Neroli | Basis: Moschus, Ambrette
 Prada L Homme: Kopf: Neroli, schwarzer Pfeffer, Kardamom | Herz: Iris, Veilchen, Geranie | Basis: Amber, Zedernholz, Sandelholz
 Roja Parfums Elysium: Kopf: Zitrone, Bergamotte, Grapefruit, Thymian | Herz: Rose, Jasmin, Apfel, schwarze Johannisbeere, Vetiver | Basis: Benzoe, Vanille, Leder, Moschus
-Roja Parfums A Goodnight Kiss: Kopf: Aldehyde, Bergamotte | Herz: Gartennelke, Mairose, Veilchen, Orangenbluete, Ylang-Ylang, Grasse-Jasmin | Basis: Gewuerznelke, Iris, Reispuder, gruene Noten, Leder, Moschus, wuerzige Noten, Zedernholz
+Roja Parfums A Goodnight Kiss: Kopf: Aldehyde, Bergamotte | Herz: Gartennelke, Mairose, Veilchen, Orangenblüte, Ylang-Ylang, Grasse-Jasmin | Basis: Gewürznelke, Iris, Reispuder, grüne Noten, Leder, Moschus, würzige Noten, Zedernholz
 Roja Parfums Oceania: Kopf: Bergamotte, Limette, Mandarine, Grapefruit, Rosmarin | Herz: Geranie, Jasmin, Ylang-Ylang, Veilchen | Basis: Moos, Vetiver, Zedernholz, Vanille, Moschus
 Roja Parfums Lost in Paris: Kopf: Blutorange, Bitterorange, Mandarine, Rum, Grand Marnier | Herz: karamellisierter Zucker, Butter-Akkord, Karamell-Akkord | Basis: rosa Pfeffer, Zimt, Nelke, Zedernholz, Kaschmirholz, Vanille, Ambergris, Moschus
 Sospiro Il Padrino: Jasmin, Bergamotte, Grapefruit, pudrige Noten, Magnolie, Zedernholz, Amber, Moschus
-Tom Ford Mandarino di Amalfi: Kopf: Estragon, Minze, schwarze Johannisbeere, Grapefruit, Basilikum | Herz: schwarzer Pfeffer, Orangenbluete, Jasmin | Basis: Vetiver, Amber, Moschus
+Tom Ford Mandarino di Amalfi: Kopf: Estragon, Minze, schwarze Johannisbeere, Grapefruit, Basilikum | Herz: schwarzer Pfeffer, Orangenblüte, Jasmin | Basis: Vetiver, Amber, Moschus
 Tom Ford Ombre Leather: Kopf: Kardamom | Herz: arabischer Jasmin, schwarzes Leder | Basis: Patschuli, Moos, Amber
 Tom Ford Neroli Portofino: Kopf: Bergamotte, Mandarine, Zitrone, Bitterorange, Lavendel | Herz: Neroli, Jasmin | Basis: Amber, Ambrette
 Tom Ford Soleil Blanc: Kopf: Pistazie, Bergamotte, Kardamom, rosa Pfeffer | Herz: Tuberose, Ylang-Ylang, Jasmin | Basis: Kokosnuss, Amber, Tonkabohne
-Tom Ford Tobacco Vanille: Kopf: Tabakblatt, wuerzige Noten | Herz: Tonkabohne, Vanille, Kakao | Basis: getrocknete Fruechte, holzige Noten
+Tom Ford Tobacco Vanille: Kopf: Tabakblatt, würzige Noten | Herz: Tonkabohne, Vanille, Kakao | Basis: getrocknete Früchte, holzige Noten
 Tom Ford Cherry Smoke: Kopf: Sauerkirsche, Safran | Herz: Leder, Olive, Osmanthus | Basis: Rauch
-Tom Ford Lost Cherry: Kopf: Schwarzkirsche, Kirschlikoer, Bittermandel | Herz: Rose, Jasmin | Basis: Perubalsam, Tonkabohne, Sandelholz, Vetiver
+Tom Ford Lost Cherry: Kopf: Schwarzkirsche, Kirschlikör, Bittermandel | Herz: Rose, Jasmin | Basis: Perubalsam, Tonkabohne, Sandelholz, Vetiver
 Tom Ford Fucking Fabulous: Kopf: Muskatellersalbei, Lavendel | Herz: Bittermandel, Vanille, Leder, Iris | Basis: Tonkabohne, Cashmeran, Amber
 Tom Ford Oud Wood: Oud, Rosenholz, Kardamom, Sandelholz, Vetiver, Tonkabohne, Vanille, Amber
-Tom Ford Black Orchid: Kopf: Trueffel, Gardenie, schwarze Johannisbeere, Ylang-Ylang | Herz: Orchidee, Lotus | Basis: Schokolade, Patschuli, Vanille, Weihrauch, Amber, Sandelholz
-Tom Ford Cafe Rose: Kopf: schwarzer Pfeffer, Safran | Herz: bulgarische Rose, Kaffee, tuerkische Rose | Basis: Patschuli, Weihrauch, Sandelholz, Amber
+Tom Ford Black Orchid: Kopf: Trüffel, Gardenie, schwarze Johannisbeere, Ylang-Ylang | Herz: Orchidee, Lotus | Basis: Schokolade, Patschuli, Vanille, Weihrauch, Amber, Sandelholz
+Tom Ford Cafe Rose: Kopf: schwarzer Pfeffer, Safran | Herz: bulgarische Rose, Kaffee, türkische Rose | Basis: Patschuli, Weihrauch, Sandelholz, Amber
 Tom Ford Vanilla Sex: Kopf: Bittermandel | Herz: Vanille | Basis: Vanille-Extrakt, Tonkabohne, Sandelholz
 Valentino Born in Roma Donna: Kopf: schwarze Johannisbeere, rosa Pfeffer, Bergamotte | Herz: Jasmin-Sambac, Jasmin | Basis: Bourbon-Vanille, Cashmeran, Guajakholz
 Valentino Born in Roma Donna Coral Fantasy: Kopf: Kiwi, brasilianische Orange | Herz: Rose, Jasmin | Basis: weisser Moschus, Zedernholz
-Versace Eros Pour Femme: Kopf: Zitrone, Granatapfel, Bergamotte | Herz: Zitronenbluete, Sambac-Jasmin, Pfingstrose | Basis: Sandelholz, Ambroxan, Moschus
+Versace Eros Pour Femme: Kopf: Zitrone, Granatapfel, Bergamotte | Herz: Zitronenblüte, Sambac-Jasmin, Pfingstrose | Basis: Sandelholz, Ambroxan, Moschus
 Widian London: Kopf: Oud, Zypresse, Veilchen | Herz: Maiglöckchen, Himbeere | Basis: Leder, trockener Amber, Moschus, Vanille
 Xerjoff Accento: Kopf: Ananas, Hyazinthe | Herz: Jasmin, Iris, rosa Pfeffer | Basis: Vetiver, Patschuli, Amber, Moschus, Vanille
 Xerjoff Alexandria II: Kopf: Apfel, Zimt, Rosenholz, Lavendel | Herz: Zedernholz, Maiglöckchen, bulgarische Rose | Basis: Amber, Sandelholz, Moschus, Vanille, Oud
 Xerjoff Erba Pura: Kopf: sizilianische Orange, Zitrone, Bergamotte | Herz: fruchtige Noten | Basis: weisser Moschus, Amber, Madagaskar-Vanille
-Xerjoff Erba Gold: Kopf: Orange, Bergamotte, Zitrone, Ingwer | Herz: Birne, gruener Apfel, Melone, Nelke, Kardamom | Basis: Moschus, Amber, Madagaskar-Vanille
-Xerjoff Muse: Kopf: Leder, Pflaume, weisse Blueten | Herz: Artemisia, Jasmin, Labdanum | Basis: Amber, Benzoe, Patschuli
-Xerjoff Opera: Kopf: fruchtige Noten, tuerkische Rose | Herz: Ylang-Ylang, Ambergris, Leder | Basis: Patschuli, Zedernholz, Vetiver, Vanille, Moschus
+Xerjoff Erba Gold: Kopf: Orange, Bergamotte, Zitrone, Ingwer | Herz: Birne, grüner Apfel, Melone, Nelke, Kardamom | Basis: Moschus, Amber, Madagaskar-Vanille
+Xerjoff Muse: Kopf: Leder, Pflaume, weisse Blüten | Herz: Artemisia, Jasmin, Labdanum | Basis: Amber, Benzoe, Patschuli
+Xerjoff Opera: Kopf: fruchtige Noten, türkische Rose | Herz: Ylang-Ylang, Ambergris, Leder | Basis: Patschuli, Zedernholz, Vetiver, Vanille, Moschus
 Xerjoff Torino21: FRISCH, ZITRUSIG, GRUEN - Kopf: Minze, Zitrone, Thymian, Basilikum | Herz: Jasmin, Rosmarin, Lavendel, schwarze Johannisbeere | Basis: Moschus, Zitronenverbene. KEIN holziger Duft!
 Xerjoff Uden: Kopf: Grapefruit, Zitrone | Herz: Guajakholz, Rum, Rose, Sandelholz | Basis: Kaffee, Vanille, Moschus, Ambergris
 Xerjoff Naxos: Kopf: Bergamotte, Zitrone, Lavendel | Herz: Sambac-Jasmin, Zimt, Honig | Basis: Tabakblatt, Tonkabohne, Vanille
-Xerjoff 40 Knots: Salz, maritime Noten, holzige Noten, gruene Noten, Zeder
+Xerjoff 40 Knots: Salz, maritime Noten, holzige Noten, grüne Noten, Zeder
 Xerjoff Renaissance: Kopf: Amalfi-Zitrone, Tangerine, Bergamotte | Herz: Minze, Maiglöckchen, Rose | Basis: Moschus, Amber, Zedernholz, Patschuli
 Xerjoff Amber Star: Kopf: Ambergris, Ylang-Ylang, Zedernholz | Herz: Guajakholz, Myrrhe | Basis: Vanille, Sandelholz, Benzoe
 Xerjoff Star Musk: Kopf: Mandarine, Amber | Herz: Patschuli, Sandelholz, Nelke, Iris, Zimt | Basis: Moschus, Vanille, Sandelholz
 Xerjoff 7: Kopf: Birne, Kokosnuss, pinke Grapefruit | Herz: Cashmeran, Iriswurzel, Weihrauch | Basis: Amber, Bourbon-Vanille, Virginia-Zedernholz. Cremig, holzig, gourmand, pudrig - warm und elegant.
-YSL Black Opium: Kopf: rosa Pfeffer, Orangenbluete, Birne | Herz: Kaffee, Jasmin, Bittermandel | Basis: Vanille, Patschuli, Zeder
-YSL Libre: Kopf: Mandarine, Lavendel, schwarze Johannisbeere | Herz: Jasmin, Lavendel, Orangenbluete | Basis: Madagaskar-Vanille, Zedernholz, Moschus
+YSL Black Opium: Kopf: rosa Pfeffer, Orangenblüte, Birne | Herz: Kaffee, Jasmin, Bittermandel | Basis: Vanille, Patschuli, Zeder
+YSL Libre: Kopf: Mandarine, Lavendel, schwarze Johannisbeere | Herz: Jasmin, Lavendel, Orangenblüte | Basis: Madagaskar-Vanille, Zedernholz, Moschus
 YSL Tuxedo: Kopf: Veilchenblatt, Koriander, Bergamotte | Herz: Rose, schwarzer Pfeffer | Basis: Patschuli, Ambergris, Bourbon-Vanille
-Zarkoperfume The Muse: Baumwollbluete, weisser Moschus, weisses Oud
+Zarkoperfume The Muse: Baumwollblüte, weisser Moschus, weisses Oud
 Ormonde Jayne Montabaco Rio: Kopf: Ananas, Bergamotte, Rhabarber, Kardamom | Herz: Mango, Papaya, Tee, Rose | Basis: Tabak, Wildleder, Sandelholz, Vanille, Tonkabohne
 Dubai Turath: Oriental, Oud, Rose, Amber, Sandelholz
 
-Arabian Oud Madawi: Kopf: Pfirsich, Apfelbluete | Herz: Ananasbluete | Basis: Wildrose, Moschus, Patschuli
-Argos Triumph of Bacchus: Kopf: Rum, weisser Pfirsich, gruener Apfel, Safran | Herz: Tonkabohne, Patschuli, Vetiver, Jasmin | Basis: Tabak, Vanille, Amber, Sandelholz, Moschus
-Ariana Grande Ari: Kopf: Birne, rosa Grapefruit, Himbeere | Herz: Maigloeckchen, Rosenknospen, Vanille-Orchidee | Basis: Marshmallow, blonde Hoelzer, Moschus
-Armani Code Homme: Kopf: Zitrone, Bergamotte | Herz: Sternanis, Olivenbluete, Guajakholz | Basis: Leder, Tonkabohne, Tabak
-Armani Code pour Femme: Kopf: italienische Orange, Jasmin, Bitterorange | Herz: Jasmin, Orangenbluete, Ingwer | Basis: Honig, Vanille, Sandelholz
-Armani My Way: Kopf: Orangenbluete, Bergamotte | Herz: Tuberose, indischer Jasmin | Basis: Madagaskar-Vanille, weisser Moschus, virginischer Zedernholz
-Armani Stronger With You Leather: Kopf: Kastanie, Gewuerze, Elemi | Herz: Lavendel, Salbei | Basis: Vanille, Leder, Guajakholz, Oud
+Arabian Oud Madawi: Kopf: Pfirsich, Apfelblüte | Herz: Ananasblüte | Basis: Wildrose, Moschus, Patschuli
+Argos Triumph of Bacchus: Kopf: Rum, weisser Pfirsich, grüner Apfel, Safran | Herz: Tonkabohne, Patschuli, Vetiver, Jasmin | Basis: Tabak, Vanille, Amber, Sandelholz, Moschus
+Ariana Grande Ari: Kopf: Birne, rosa Grapefruit, Himbeere | Herz: Maiglöckchen, Rosenknospen, Vanille-Orchidee | Basis: Marshmallow, blonde Hölzer, Moschus
+Armani Code Homme: Kopf: Zitrone, Bergamotte | Herz: Sternanis, Olivenblüte, Guajakholz | Basis: Leder, Tonkabohne, Tabak
+Armani Code pour Femme: Kopf: italienische Orange, Jasmin, Bitterorange | Herz: Jasmin, Orangenblüte, Ingwer | Basis: Honig, Vanille, Sandelholz
+Armani My Way: Kopf: Orangenblüte, Bergamotte | Herz: Tuberose, indischer Jasmin | Basis: Madagaskar-Vanille, weisser Moschus, virginischer Zedernholz
+Armani Stronger With You Leather: Kopf: Kastanie, Gewürze, Elemi | Herz: Lavendel, Salbei | Basis: Vanille, Leder, Guajakholz, Oud
 Armani Stronger With You Sandalwood: Kopf: Safran | Herz: Kastanie, Lavendel | Basis: Sandelholz, Zedernholz, Vanille
 Burberry Goddess: Kopf: Vanille, Lavendel, Kakao, Ingwer | Herz: Vanille-Kaviar | Basis: Vanille-Absolue
 Burberry Hero edP: Kopf: Kiefernnadeln, Olibanum | Herz: Benzoe, Weihrauch | Basis: Atlas-Zeder, Himalaya-Zeder, Virginia-Zeder
 Bvlgari Omnia Crystalline: Kopf: Bambus, Birne | Herz: Lotus, Tee, Cassia | Basis: Moschus, Guajakholz, Eichenmoos
-Cacharel Amor Amor: Kopf: schwarze Johannisbeere, Orange, Mandarine, Grapefruit, Cassia, Bergamotte | Herz: Rose, Aprikose, Jasmin, Lilie, Maigloeckchen | Basis: Vanille, Tonkabohne, Moschus, Amber, Virginia-Zeder
-Carolina Herrera 212 VIP Men: Kopf: Passionsfrucht, Limette, Pfeffer, Ingwer, Fingerlimette | Herz: Vodka, Gin, Minze, Gewuerze | Basis: Amber, Leder, holzige Noten
+Cacharel Amor Amor: Kopf: schwarze Johannisbeere, Orange, Mandarine, Grapefruit, Cassia, Bergamotte | Herz: Rose, Aprikose, Jasmin, Lilie, Maiglöckchen | Basis: Vanille, Tonkabohne, Moschus, Amber, Virginia-Zeder
+Carolina Herrera 212 VIP Men: Kopf: Passionsfrucht, Limette, Pfeffer, Ingwer, Fingerlimette | Herz: Vodka, Gin, Minze, Gewürze | Basis: Amber, Leder, holzige Noten
 Carolina Herrera Bad Boy: Kopf: weisser Pfeffer, Bergamotte, rosa Pfeffer | Herz: Zedernholz, Muskatellersalbei | Basis: Tonkabohne, Kakao
 Carolina Herrera La Bomba 2025: Kopf: Pitahaya (Drachenfrucht) | Herz: Frangipani, rote Pfingstrose | Basis: Vanille, Patschuli
-Carolina Herrera Stallion Leather Suede: Kopf: Leder | Herz: Zimt, Kardamom, Gewuerznelken | Basis: Vanille, Tonkabohne, Moschus
+Carolina Herrera Stallion Leather Suede: Kopf: Leder | Herz: Zimt, Kardamom, Gewürznelken | Basis: Vanille, Tonkabohne, Moschus
 Chanel Allure Sport Homme: Kopf: Orange, maritime Noten, Aldehyde, Blutmandarine | Herz: Pfeffer, Neroli, Zeder | Basis: Vanille, Tonkabohne, weisser Moschus, Amber, Vetiver, Elemi
 Chanel Chance Eau Fraiche: Kopf: Zitrone, Zeder, Cedrat | Herz: Wasserhyazinthe, rosa Pfeffer, Jasmin | Basis: weisser Moschus, Patschuli, Vetiver, Teakholz, Iris, Amber
 
 WICHTIGE REGELN - UNBEDINGT EINHALTEN (nochmal):
 0. Benutze KEINE Markdown-Formatierung! Kein *fett*, kein **bold**, keine Sternchen *, keine Unterstriche _! Nur normaler Text ohne jegliche Formatierung!
-1. Empfehle NUR Parfuems die in unserem Sortiment stehen
-2. Erfinde KEINE Parfuems oder Preise die nicht in der Liste stehen
-3. Wenn jemand nach einem Parfuem fragt das wir nicht haben, sage ehrlich: "Dieses Parfuem haben wir leider nicht in unserem Sortiment, aber ich empfehle dir stattdessen..."
-4. Nenne IMMER nur unsere echten Preise: 50ml = 25 Euro, 10ml = 9 Euro, Autoduft = 9 Euro, Dior Sauvage Rare Blend by Baccarat = 45 Euro
+1. Empfehle NUR Parfüms die in unserem Sortiment stehen
+2. Erfinde KEINE Parfüms oder Preise die nicht in der Liste stehen
+3. Wenn jemand nach einem Parfüm fragt das wir nicht haben, sage ehrlich: "Dieses Parfüm haben wir leider nicht in unserem Sortiment, aber ich empfehle dir stattdessen..."
+4. Nenne IMMER nur unsere echten Preise: 50ml = 25 Euro, 10ml = 10 Euro, Autoduft = 9 Euro, Dior Sauvage Rare Blend by Baccarat = 45 Euro
 5. Bleibe immer bei den Fakten - keine Erfindungen!
 
 SHOP LINK - SEHR WICHTIG:
-Weise bei jeder Empfehlung und wenn jemand kaufen moechte auf unseren Shop hin:
-"Bestellungen ganz einfach ueber: https://premium-telegram.netlify.app/"
+Weise bei jeder Empfehlung und wenn jemand kaufen möchte auf unseren Shop hin:
+"Bestellungen ganz einfach über: https://premium-telegram.netlify.app/"
 
-Fuer persoenliche Beratung oder um direkt zu bestellen, kann man sich auch an @Dome_nicooo wenden.
+Für persönliche Beratung oder um direkt zu bestellen, kann man sich auch an @Dome_nicooo wenden.
 
 UNSERE PREISE:
 Wenn jemand nach dem Preis fragt, nenne immer diese Preise:
 - 50 ml Flakon: 25 Euro
-- 10 ml Probe: 9 Euro
-- 10 ml Oelroller: 9 Euro
+- 10 ml Probe: 10 Euro
+- 10 ml Oelroller: 10 Euro
 - Autoduft: 9 Euro
 - Hochwertige Verpackung: 3 Euro
 - Exklusiv-Duft Dior Sauvage Rare Blend by Baccarat: 50 ml Flakon inkl. Verpackung 45 Euro
 
 VERSAND:
-Versand erfolgt mit DHL und kostet zusaetzlich 6,60 Euro.
-Die Lieferzeit betraegt in der Regel 1-3 Werktage.
+Versand erfolgt mit DHL und kostet zusätzlich 6,60 Euro.
+Die Lieferzeit beträgt in der Regel 1-3 Werktage.
 NEUKUNDEN-AKTION: Bei der ERSTEN Bestellung ist der Versand GRATIS!
-Erwaehne dies bei Fragen zu Versand, Lieferzeit oder wenn jemand den Bestellprozess wissen moechte.
+Erwähne dies bei Fragen zu Versand, Lieferzeit oder wenn jemand den Bestellprozess wissen möchte.
 
-Weise bei Empfehlungen gerne auf unsere guenstigen Preise hin!
+Weise bei Empfehlungen gerne auf unsere günstigen Preise hin!
 
 WICHTIG - UNSER SORTIMENT:
-Wenn jemand nach einer Empfehlung fragt, empfehle BEVORZUGT Parfuems aus unserem Sortiment und weise darauf hin dass diese verfuegbar sind:
+Wenn jemand nach einer Empfehlung fragt, empfehle BEVORZUGT Parfüms aus unserem Sortiment und weise darauf hin dass diese verfügbar sind:
 Acqua di Parma: Fico di Amalfi
 Amouage: Essence Outlands, Reflection, Interlude, Sinbad (auch bekannt als Elsewhere / Sindbad), Guidance, Guidance 46
 Arabian Oud: Madawi
@@ -433,7 +433,7 @@ async def cmd_start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = update.effective_user.id
     conversation_history[user_id] = []  # Reset
 
-    welcome = "Hallo! Ich bin Duftii, dein Parfum-Berater! Frag mich alles ueber Duefte aus aller Welt!"
+    welcome = "Hallo! Ich bin Duftii, dein Parfum-Berater! Frag mich alles über Düfte aus aller Welt!"
     await update.message.reply_text(welcome)
 
 
@@ -483,12 +483,12 @@ async def cmd_beispiele(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 
 async def welcome_new_member(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    """Begruesst neue Mitglieder persoenlich, wenn sie der Gruppe beitreten."""
+    """Begrüsst neue Mitglieder persönlich, wenn sie der Gruppe beitreten."""
     if not update.message or not update.message.new_chat_members:
         return
 
     for member in update.message.new_chat_members:
-        # Bots (inkl. sich selbst) nicht begruessen
+        # Bots (inkl. sich selbst) nicht begrüssen
         if member.is_bot:
             continue
 
