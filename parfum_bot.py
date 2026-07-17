@@ -57,13 +57,6 @@ claude = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
 # Gesprächsverlauf pro User (in-memory, restartet bei Bot-Neustart)
 conversation_history: dict[int, list[dict]] = {}
 
-# Der Bot bleibt vorerst ueberall gesperrt (Gruppen UND Privatchats):
-# Preise/Duefte werden noch nicht verraten.
-# Um spaeter freizuschalten, einfach BOT_LOCKED auf False setzen.
-BOT_LOCKED = True
-
-WAITING_MESSAGE = "Bald mehr dazu! 🌸"
-
 SYSTEM_PROMPT = """Du bist *Duftii* 🌸 – der exklusivste KI-Duftberater der Welt.
 
 Du kennst JEDES Parfüm: von Chanel No. 5 bis zu obskuren Nischen-Häusern wie Xerjoff, Roja Parfums, Amouage, Memo Paris, Diptyque, Serge Lutens, Le Labo, Byredo, Maison Francis Kurkdjian, Tom Ford, Creed, Parfums de Nicolaï, Orto Parisi, Bogue Profumo, Tauer, Nishane, Mizensir und hunderten mehr.
@@ -490,11 +483,6 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             return
         # Erwähnung aus dem Text entfernen
         text = text.replace(f"@{bot_username}", "").strip()
-
-    # Bot bleibt vorerst ueberall gesperrt (Gruppen und Privatchats)
-    if BOT_LOCKED:
-        await update.message.reply_text(WAITING_MESSAGE)
-        return
 
     if not text:
         return
