@@ -413,7 +413,7 @@ Ariana Grande: Ari
 Armani: Sì, Acqua di Gio profumo, Stronger With You Absolutely, Stronger With You Amber, Stronger With You Intensely, Code Homme, Code pour femme, My Way, Stronger with You leather, Stronger with You Sandalwood
 Armani Privé: Vert Malachite
 BDK: Extrait Gris Charnel
-Boadicea the Victorious: 1907
+Boadicea the Victorious: 1907, Hanuman
 Burberry: Her Elixir, Goddess, Hero edP
 Bvlgari: Tygar, Man in Black, Omnia Crystalline
 Cacharel: Amor Amor
@@ -426,14 +426,14 @@ Creed: Aventus, Absolu Aventus, Millésime Impérial, Virgin Island
 Davidoff: Cool water
 Diesel: Loverdose
 Diesel Loverdose: Kopf: Mandarine, Sternanis | Herz: Jasmin, Gardenie, Lakritze | Basis: Amber, Vanille, holzige Noten. Orientalisch-Vanille, jugendlich, süss, provokant.
-Dior: J'adore, Hypnotic Poison, Sauvage Elixir, Sauvage Rare Blend by Baccarat, Oud Ispahan, Tabacolor, Absolutely Blooming, Addict edp (2014), Dior Homme Intense, Fahrenheit, Miss blooming bouquet, Miss Dior Cherie, Miss Dior EdP 2021
+Dior: J'adore, Hypnotic Poison, Sauvage Elixir, Sauvage Rare Blend by Baccarat, Oud Ispahan, Tabacolor, Absolutely Blooming, Addict edp (2014), Dior Homme Intense, Fahrenheit, Miss blooming bouquet, Miss Dior Cherie, Miss Dior EdP 2021, Bois d'Argent Esprit
 Diptyque: Philosykos, Tam Dao EdP
 Dolce & Gabbana: Devotion, The One for Men, Light Blue, The One, The One For Men Gold, Light Blue pour Homme Intense
 Dubai: Turath
 Elie Saab: Le Parfum
 Escentric Molecules: Molecule 01
 Essentials: Bois imperial
-Ex Nihilo: Fleur Narcotique, Blue Talisman
+Ex Nihilo: Fleur Narcotique, Blue Talisman, Lust in Paradise
 Giardini di Toscana: Bianco Latte
 Gisada: Ambassador Women, Ambassador Intense, Ambassador for Men
 Givenchy: L'Interdit Absolu 2024, Gentlemen
@@ -451,11 +451,11 @@ Kajal: Äican
 Kayali: Eden Sparkling Lychee | 39, Yum Boujee Marshmallow | 81, Maui In A Bottle Sweet Banana | 37, Capri Lemon Sugar | 14, Lovefest Burning Cherry 48, Maldives In A Bottle Ylang Coco | 20, Vanilla 28, Yum Pistachio Gelato | 33, Vanilla Candy Rock Sugar | 42
 Kilian Paris: Angels' Share, Sunkissed Goddess, Angel Share Paradise, Moonlight in Heaven, Apple Brandy on the Rocks, Angel Share On the Rocks, Love don't be shy
 Lattafa: Khamrah
-Lorenzo Pazzaglia: Summer Hammer
+Lorenzo Pazzaglia: Summer Hammer, Pazzo
 Louis Vuitton: Les Sables Roses, Météore, Ombre Nomade, On the Beach, Pacific Chill, Afternoon Swim, Imagination, Orage, California dream
 Marc-Antoine Barrois: Tilia, Ganymede
 Maison Crivelli: Tubereuse Astrale, Hibiscus Mahajad, Oud Cadenza, Oud Maracuja
-Maison Francis Kurkdjian: 724, Baccarat Rouge 540, Oud Satin Mood, Grand Soir, Gentle Fluidity Gold
+Maison Francis Kurkdjian: 724, Baccarat Rouge 540, Oud Satin Mood, Grand Soir, Gentle Fluidity Gold, Amyris Homme Extrait
 Maison Margiela: Jazz Club
 Mancera: Red Tobacco, French Riviera
 Marc Gebauer: Orange Flamingo
@@ -481,7 +481,13 @@ Versace: Eros Pour Femme, Bright Crystal, Crystal Noir, Eros Najim, Eros
 Victoria Secret: Bombshell
 Viktor & Rolf: Spicebomb, Spicebomb Infrared EdT, Spicebomb Extreme de Parfum
 Widian: London
-Xerjoff: Accento, Torino21, Naxos, Alexandria II, Erba Pura, Erba Gold, Muse, Opera, Uden, 40 Knots, Amber Star, Star Musk, 7, La capitale, Lira
+Xerjoff: Accento, Torino21, Naxos, Alexandria II, Erba Pura, Erba Gold, Muse, Opera, Uden, 40 Knots, Amber Star, Star Musk, 7, La capitale, Lira, 7 Parfum, Tony Iommi Monkey Special, Richwood
+Dries Van Noten: Havana Gold
+Fort & Manle: Amber Absolutely
+Henry Jacques: Xantor
+ESCO: Hellenist / Les Dieux aux Bains
+Franck Boclet: Cocaine
+Blockade: Mind Games
 YSL: Black Opium, Libre, Tuxedo
 Yves Saint Laurent: Y (2021), Y (2017), La Nuit de Homme, Myslf
 Zadig & Voltaire: This is her
