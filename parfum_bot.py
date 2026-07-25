@@ -79,7 +79,6 @@ Dein Stil:
 - Stelle manchmal Rückfragen um besser zu beraten (Haut-Typ? Lieblings-Noten? Budget?)
 - Antworte auf Deutsch, wenn auf Deutsch gefragt, sonst in der Sprache des Users
 - In Telegram-Gruppen: antworte nur wenn du direkt erwähnt wirst ODER wenn eine klare Duftnachricht vorliegt
-- WICHTIG - GRUPPEN-MODUS SORTIMENT GEHEIM: Aktuell darfst du in Telegram-GRUPPEN NICHT verraten, welche Parfuems konkret in unserem Sortiment/auf Lager sind. Wenn jemand fragt "was habt ihr da", "ist [Duft] verfuegbar", "was ist im Sortiment" oder eine Liste verlangt, antworte ausweichend mit "Bald mehr dazu! 🌸" oder verweise auf @Dome_nicooo fuer Details. Du darfst weiterhin ganz normal ueber Duftfamilien, Noten, allgemeine Empfehlungen und Preise sprechen - bestaetige nur NICHT, ob ein bestimmtes Produkt konkret bei uns vorraetig ist oder liste das Sortiment auf. Diese Einschraenkung gilt NUR in Gruppen, nicht in Privatnachrichten.
 - In Gruppen IMMER kurz und knapp antworten: maximal 3-4 kurze Sätze, keine langen Aufzählungen oder ausführlichen Duftpyramiden-Erklärungen. Nenne die wichtigsten Fakten praezise (z.B. 2-3 Kernnoten statt der ganzen Pyramide), aber bleibe dabei fachlich korrekt. In Privatnachrichten darfst du ausführlicher sein, wenn danach gefragt wird.
 
 Starte jede neue Konversation mit einem kurzen, charmanten Begrüßungssatz.
@@ -393,6 +392,7 @@ WICHTIGE REGELN - UNBEDINGT EINHALTEN (nochmal):
 3. Wenn jemand nach einem Parfüm fragt das wir nicht haben, sage ehrlich: "Dieses Parfüm haben wir leider nicht in unserem Sortiment, aber ich empfehle dir stattdessen..."
 4. Nenne IMMER nur unsere echten Preise: 50ml = 25 Euro, 10ml = 10 Euro, Autoduft = 9 Euro, Dior Sauvage Rare Blend by Baccarat = 45 Euro
 5. Bleibe immer bei den Fakten - keine Erfindungen!
+6. Wenn jemand explizit nach der LISTE/Übersicht aller Parfüms fragt (z.B. "schick mir die Liste", "welche Düfte habt ihr alle", "Sortiment-Liste"), antworte NUR mit der reinen Liste der Parfümnamen (nach Marke gruppiert) - OHNE Begrüßung, OHNE Shop-Link, OHNE zusätzlichen Text, OHNE Empfehlungssätze davor oder danach. Nur die nackte Liste.
 
 SHOP LINK - SEHR WICHTIG:
 Weise bei jeder Empfehlung und wenn jemand kaufen möchte auf unseren Shop hin:
@@ -526,22 +526,14 @@ def trim_history(user_id: int):
         conversation_history[user_id] = h[-MAX_HISTORY:]
 
 
-async def ask_claude(user_id: int, user_message: str, is_group: bool = False) -> str:
+async def ask_claude(user_id: int, user_message: str) -> str:
     history = get_history(user_id)
     history.append({"role": "user", "content": user_message})
-
-    context_note = (
-        "\n\n[SYSTEM-KONTEXT: Diese Nachricht kommt aus einer TELEGRAM-GRUPPE. "
-        "Die Sortiment-Geheimhaltungsregel gilt hier!]"
-        if is_group
-        else "\n\n[SYSTEM-KONTEXT: Dies ist eine private Nachricht (Direktchat). "
-        "Die Sortiment-Geheimhaltungsregel gilt hier NICHT.]"
-    )
 
     response = claude.messages.create(
         model="claude-sonnet-4-6",
         max_tokens=1000,
-        system=SYSTEM_PROMPT + context_note,
+        system=SYSTEM_PROMPT,
         messages=history,
     )
 
@@ -666,7 +658,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     )
 
     try:
-        reply = await ask_claude(user_id, text, is_group=is_group)
+        reply = await ask_claude(user_id, text)
         await update.message.reply_text(reply)
     except Exception as e:
         logger.error(f"Claude API Fehler: {e}")
