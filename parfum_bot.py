@@ -372,12 +372,25 @@ Paco Rabanne Million Gold for Her: Kopf: weisse Blüten | Herz: Rose | Basis: mi
 Paco Rabanne Olympea: Kopf: grüne Mandarine, Wasserjasmin, Ingwerblüte | Herz: Vanille, Salz | Basis: Ambra, Kaschmirholz, Sandelholz. Orientalisch-blumig (aquatisch), sinnlich, salzig-süss.
 Paco Rabanne Phantom: Kopf: Lavendel, Zitronenschale, Amalfizitrone | Herz: Lavendel, Rauch, Apfel, erdige Noten, Patschuli | Basis: Vanille, Lavendel, Vetiver. Holzig-aromatisch (süss), futuristisch, verspielt.
 
+Blockade Mind Games: Ein exotischer Mango-Mix mit Ingwer und Gewuerzen, verfeinert mit floralem Herz und einer warmen Basis aus Ambrostar, Patchouli, Oud und Wildleder.
+Dior Bois d'Argent Esprit: Ein opulent-puderiger und suesser Luxusduft, der mit erlesener Iris, warmem Honig und balsamischem Weihrauch tief ausklingt.
+Dries Van Noten Havana Gold: Ein rauchig-suesser Luxusduft, der tiefe Tabaknoten mit dunkler Lakritze, feinem Anis und warmer Tonkabohne vereint.
+Ex Nihilo Lust in Paradise: Ein sinnlicher, floraler Moschusduft mit spritzigem rosa Pfeffer, ueppiger Pfingstrose und einer sanften, cremigen Basis.
+Fort & Manle Amber Absolutely Xantor: Ein opulent-harziger Amberduft mit suesser Pflaume, feinem Honig, roter Rose und einer warmen Holzbett-Basis.
+Franck Boclet Cocaine: Ein suess-exotischer, betoerender Rauschduft mit warmer Tuberose, suessem Karamell und einem rauchigen Tabak-Ausklang.
+Henry Jacques Hellenist Les Dieux aux Bains: Ein frischer, aquatisch-aromatischer Duft mit Wacholder, Eukalyptus und einer warmen Ambroxan-Basis.
+Lorenzo Pazzaglia Esco Pazzo: Ein intensiver, temperamentvoller Duft mit spritziger Zitrone, gruenem Cannabis und einer warmen, holzig-erdigen Basis.
+Louis Vuitton California Dream: Ein frischer, sonniger Sommerduft mit spritziger Mandarine, zarten Ambrette-Noten und einer warm-pudrigen Benzoe-Basis.
+Tiziana Terenzi Rosso Pompei: Ein fruchtig-wuerziger Duft mit saftiger Grapefruit, rosa Pfeffer, Rose und Leder.
+Xerjoff Richwood: Ein edler, holziger Unisex-Duft mit Bergamotte, Damaszener-Rose, Patchouli und Mysore-Sandelholz.
+Xerjoff Tony Lommi Monkey Special: Ein holzig-wuerziger Unisex-Duft mit Rum, Passionsfrucht, Patchouli und Leder.
+
 WICHTIGE REGELN - UNBEDINGT EINHALTEN (nochmal):
 0. Benutze KEINE Markdown-Formatierung! Kein *fett*, kein **bold**, keine Sternchen *, keine Unterstriche _! Nur normaler Text ohne jegliche Formatierung!
 1. Empfehle NUR Parfüms die in unserem Sortiment stehen
 2. Erfinde KEINE Parfüms oder Preise die nicht in der Liste stehen
 3. Wenn jemand nach einem Parfüm fragt das wir nicht haben, sage ehrlich: "Dieses Parfüm haben wir leider nicht in unserem Sortiment, aber ich empfehle dir stattdessen..."
-4. Nenne IMMER nur unsere echten Preise: 50ml = 25 Euro, 10ml = 9 Euro, Autoduft = 9 Euro, Dior Sauvage Rare Blend by Baccarat = 45 Euro
+4. Nenne IMMER nur unsere echten Preise: 50ml = 25 Euro, 10ml = 10 Euro, Autoduft = 9 Euro, Dior Sauvage Rare Blend by Baccarat = 45 Euro
 5. Bleibe immer bei den Fakten - keine Erfindungen!
 
 SHOP LINK - SEHR WICHTIG:
@@ -389,8 +402,8 @@ Für persönliche Beratung oder um direkt zu bestellen, kann man sich auch an @D
 UNSERE PREISE:
 Wenn jemand nach dem Preis fragt, nenne immer diese Preise:
 - 50 ml Flakon: 25 Euro
-- 10 ml Probe: 9 Euro
-- 10 ml Oelroller: 9 Euro
+- 10 ml Probe: 10 Euro
+- 10 ml Oelroller: 10 Euro
 - Autoduft: 9 Euro
 - Hochwertige Verpackung: 3 Euro
 - Exklusiv-Duft Dior Sauvage Rare Blend by Baccarat: 50 ml Flakon inkl. Verpackung 45 Euro
@@ -404,92 +417,94 @@ Erwähne dies bei Fragen zu Versand, Lieferzeit oder wenn jemand den Bestellproz
 Weise bei Empfehlungen gerne auf unsere günstigen Preise hin!
 
 WICHTIG - UNSER SORTIMENT:
-Wenn jemand nach einer Empfehlung fragt, empfehle BEVORZUGT Parfüms aus unserem Sortiment und weise darauf hin dass diese verfügbar sind:
-Acqua di Parma: Fico di Amalfi
-Amouage: Essence Outlands, Reflection, Interlude, Sinbad (auch bekannt als Elsewhere / Sindbad), Guidance, Guidance 46
+Wenn jemand nach einer Empfehlung fragt, empfehle BEVORZUGT Parfuems aus unserem Sortiment und weise darauf hin dass diese verfuegbar sind:
+
+Acqua di Parma: Bergamotto di Calabria, Colonia Essenza, Fico di Amalfi
+Amouage: Essence Outlands, Guidance, Guidance 46, Interlude, Reflection, Sinbad
 Arabian Oud: Madawi
 Argus: Triumph of Bacchus
 Ariana Grande: Ari
-Armani: Sì, Acqua di Gio profumo, Stronger With You Absolutely, Stronger With You Amber, Stronger With You Intensely, Code Homme, Code pour femme, My Way, Stronger with You leather, Stronger with You Sandalwood
+Armani: Acqua di Gio profumo, Code Homme, Code pour femme, My Way, Stronger With You Absolutely, Stronger With You Amber, Stronger With You Intensely, Stronger with You Leather, Stronger with You Sandalwood, Sì
 Armani Privé: Vert Malachite
 BDK: Extrait Gris Charnel
+Blockade: Mind Games
 Boadicea the Victorious: 1907, Hanuman
-Burberry: Her Elixir, Goddess, Hero edP
-Bvlgari: Tygar, Man in Black, Omnia Crystalline
+Burberry: Goddess, Her Elixir, Hero EdP
+Bvlgari: Man in Black, Omnia Crystalline, Tygar
 Cacharel: Amor Amor
-Carolina Herrera: Good Girl, 212 VIP Men, Bad Boy, La Bomba 2025, Stallion leather suede
+Carolina Herrera: 212 VIP Men, Bad Boy, Good Girl, La Bomba 2025, Stallion Leather Suede
 Casamorati: Dolce Amalfi, Mefisto
-Chanel: N°5, Coco Mademoiselle, Bleu de Chanel, Bleu de Chanel EdP, Allure Sport Homme, Chance Eau Fraîche, Chance Eau Tendre EdT
+Chanel: Allure Sport Homme, Bleu de Chanel, Bleu de Chanel EdP, Chance Eau Fraîche, Chance Eau Tendre EdT, Coco Mademoiselle, N°5
 Chloé: Chloé
-Clive Christian: Jump Up and Kiss Me Hedonistic, Blonde Amber, No. 1, 1872 for men
-Creed: Aventus, Absolu Aventus, Millésime Impérial, Virgin Island
+Clive Christian: 1872 for men, Blonde Amber, Jump Up and Kiss Me Hedonistic
+Creed: Absolu Aventus, Aventus, Millésime Impérial
+D&G: Devotion, Light Blue, The One for Men
 Davidoff: Cool water
+De Marly: Sedley
 Diesel: Loverdose
-Diesel Loverdose: Kopf: Mandarine, Sternanis | Herz: Jasmin, Gardenie, Lakritze | Basis: Amber, Vanille, holzige Noten. Orientalisch-Vanille, jugendlich, süss, provokant.
-Dior: J'adore, Hypnotic Poison, Sauvage Elixir, Sauvage Rare Blend by Baccarat, Oud Ispahan, Tabacolor, Absolutely Blooming, Addict edp (2014), Dior Homme Intense, Fahrenheit, Miss blooming bouquet, Miss Dior Cherie, Miss Dior EdP 2021, Bois d'Argent Esprit
+Dior: Absolutely Blooming, Addict edp (2014), Bois d'Argent Esprit, Dior Homme Intense, Fahrenheit, Hypnotic Poison, J'adore, Miss blooming bouquet, Miss Dior Cherie, Miss Dior EdP 2021, Oud Ispahan, Sauvage Elixir, Tabacolor
+Dior * Spezial Preis!: Sauvage Rare Blend by Baccarat
 Diptyque: Philosykos, Tam Dao EdP
-Dolce & Gabbana: Devotion, The One for Men, Light Blue, The One, The One For Men Gold, Light Blue pour Homme Intense
+Dolce & Gabbana: Light Blue pour Homme Intense, The one, The One For Men Gold
+Dries Van Noten: Havana Gold
 Dubai: Turath
 Elie Saab: Le Parfum
 Escentric Molecules: Molecule 01
 Essentials: Bois imperial
-Ex Nihilo: Fleur Narcotique, Blue Talisman, Lust in Paradise
+Ex Nihilo: Blue Talisman, Fleur Narcotique, Lust in Paradise
+Fort & Manle: Amber Absolutely Xantor
+Franck Boclet: Cocaine
 Giardini di Toscana: Bianco Latte
-Gisada: Ambassador Women, Ambassador Intense, Ambassador for Men
-Givenchy: L'Interdit Absolu 2024, Gentlemen
+Gisada: Ambassador for Men, Ambassador Intense, Ambassador Women
+Givenchy: Gentlemen, L'Interdit Absolu 2024
 Gritti: Mango Aoud
-Gucci: Flora, Elixir de parfum
+Gucci: Elixir de parfum, Flora
 Guerlain: Mon Guerlain
+Henry Jacques: Hellenist Les Dieux aux Bains
 Hermès: H24, Terre d'Hermès
-Hugo Boss: The Scent Magnetic for Him, Alive, Boss Bottled, Boss Bottled Absolu, Boss Ma Vie pour Femme, Boss Orange, Boss The Scent, Boss The Scent Elixir for Him, Hugo Woman
-Initio: Oud for Happiness, Narcotic Delight
-Initio Parfums Privés: Rehab, Side Effect, Oud for Greatness
+Hugo Boss: Alive, Boss Bottled, Boss Bottled Absolu, Boss Ma Vie pour Femme, Boss orange, Boss the Scent, Boss the Scent Elixir for Him, Hugo Woman, The Scent Magnetic for Him
+Initio: Narcotic Delight, Oud for Happiness
+Initio Parfums Privés: Oud for Greatness, Rehab, Side Effect
 Jacques Bogart: Silver Scent
-Jean Paul Gaultier: Scandal, Divine, Gaultier², Le Male Elixir, Ultra Male, Le Beau, Scandal Pour Homme
+Jean Paul Gaultier: Divine, Gaultier², Le Beau, Le Beau Flower Edition 2025, Le Male Elixir, Scandal, Scandal Pour Homme, Scandal pour Homme Absolu, Scandal pour Homme Le Parfum, Ultra Male
 Joop: Night Flight
 Kajal: Äican
-Kayali: Eden Sparkling Lychee | 39, Yum Boujee Marshmallow | 81, Maui In A Bottle Sweet Banana | 37, Capri Lemon Sugar | 14, Lovefest Burning Cherry 48, Maldives In A Bottle Ylang Coco | 20, Vanilla 28, Yum Pistachio Gelato | 33, Vanilla Candy Rock Sugar | 42
-Kilian Paris: Angels' Share, Sunkissed Goddess, Angel Share Paradise, Moonlight in Heaven, Apple Brandy on the Rocks, Angel Share On the Rocks, Love don't be shy
+Kayali: Capri Lemon Sugar | 14, Eden Sparkling Lychee | 39, Lovefest Burning Cherry 48, Maldives In A Bottle Ylang Coco | 20, Maui In A Bottle Sweet Banana | 37, Vanilla 28, Vanilla Candy Rock Sugar | 42, Yum Boujee Marshmallow | 81, Yum Pistachio Gelato | 33
+Kilian: Angel Share On the Rocks, Love don't be shy
+Kilian Paris: Angel Share Paradise, Angels' Share, Apple Brandy on the Rocks, Moonlight in Heaven, Sunkissed Goddess
 Lattafa: Khamrah
-Lorenzo Pazzaglia: Summer Hammer, Pazzo
-Louis Vuitton: Les Sables Roses, Météore, Ombre Nomade, On the Beach, Pacific Chill, Afternoon Swim, Imagination, Orage, California dream
-Marc-Antoine Barrois: Tilia, Ganymede
-Maison Crivelli: Tubereuse Astrale, Hibiscus Mahajad, Oud Cadenza, Oud Maracuja
-Maison Francis Kurkdjian: 724, Baccarat Rouge 540, Oud Satin Mood, Grand Soir, Gentle Fluidity Gold, Amyris Homme Extrait
+Lorenzo Pazzaglia: Esco Pazzo, Summer Hammer
+Louis Vuitton: Afternoon Swim, California dream, Imagination, Les Sables Roses, Météore, Ombre Nomade, On the Beach, Orage, Pacific Chill
+M Antoine Barrois: Ganymede, Tilia
+Maison Crivelli: Hibiscus Mahajad, Oud Cadenza, Oud Maracuja, Tubereuse Astrale
+Maison Francis Kurkdjian: 724, Amyris Homme Extrait, Baccarat Rouge 540, Gentle Fluidity Gold, Grand Soir, Oud Satin Mood
 Maison Margiela: Jazz Club
-Mancera: Red Tobacco, French Riviera
+Mancera: French Riviera, Red Tobacco
 Marc Gebauer: Orange Flamingo
-Montale: Roses Musk, Arabians Tonka, Intens Café, Honey oud, Infinity, Oud sapparot, Pure Gold
+Montale: Arabians Tonka, Honey oud, Infinity, Intens Café, Oud sapparot, Pure Gold, Roses Musk
 Mugler: Alien, Angel Elixir
 Narcisio Rodriguez: For Her Pure Musc Blanc
-Narciso Rodriguez: For Her Pure Musc, Poudrée, Amber MUSC, For Her Pure Musc Blanc
+Narciso Rodriguez: Amber MUSC, For Her Pure Musc, Poudrée
 Nasomatto: Black Afgano
-Nishane: Nefs, Ani, Hacivat, Wu long
+Nishane: Ani, Hacivat, Nefs, Wu long
 Ormonde Jayne: Montabaco Rio
 Orto Parisi: Megamare
-Paco Rabanne: Phantom, 1 Million, 1 Million Elixir, Invictus, Million Gold for Her, Olympea
-Parfums de Marly: Valaya, Delina + Valaya Spezial, Delina Exclusif, Carlisle, Greenley, Herod, Layton, Percival, Althaïr, Oajan, Kalan, Pegasus, Sedley
-Prada: Paradoxe Intense, Paradoxe, Paradox Virtual Flower, L'Homme, Candy, Luna Rossa Ocean
+Paco Rabanne: 1 Million, 1 Million Elixir, Invictus, Million gold for her, Olympea, Phantom
+Parfums de Marly: Althaïr, Carlisle, Delina + Valaya Spezial, Delina Exclusif, Greenley, Herod, Kalan, Layton, Oajan, Pegasus, Percival, Valaya
+Prada: Candy, L'Homme, Luna Rossa Ocean, Paradox Virtual Flower, Paradoxe, Paradoxe Intense
 Roja: Apex
-Roja Parfums: A Goodnight Kiss, Elysium, Oceania, Apex
-Sospiro: Il Padrino
+Roja Parfums: A Goodnight Kiss, Elysium, Oceania
 Stéphane Humbert Lucas: God of Fire
-Tiziana Terenzi: Kirke, Orion, Tabit
-Tom Ford: Café Rose, Vanilla Sex, Black Orchid, Mandarino di Amalfi, Tobacco Vanille, Fucking Fabulous, Ombré Leather, Neroli Portofino, Soleil Blanc, Smoke Cherry, Lost Cherry, Oud Wood, Bitter Peach, Noir de noir, Noir extreme
-Valentino: Born in Roma Donna, Born in Roma Donna Coral Fantasy, Donna Born in Roma coral fantasy, Uomo born in Roma
-Versace: Eros Pour Femme, Bright Crystal, Crystal Noir, Eros Najim, Eros
+Tiziana Terenzi: Kirke, Orion, Rosso Pompei, Tabit
+Tom Ford: Bitter Peach, Black Orchid, Café Rose, Fucking Fabulous, Lost Cherry, Mandarino di Amalfi, Neroli Portofino, Noir de noir, Noir extreme, Ombré Leather, Oud Wood, Smoke Cherry, Soleil Blanc, Tobacco Vanille, Vanilla Sex
+Valentino: Born in Roma Donna, Born in Roma Donna Coral Fantasy, Uomo born in Roma, Uomo Born in Roma Yellow Dream
+Versace: Bright Crystal, Crystal Noir, Eros, Eros Najim, Eros Pour Femme
 Victoria Secret: Bombshell
-Viktor & Rolf: Spicebomb, Spicebomb Infrared EdT, Spicebomb Extreme de Parfum
+Viktor & Rolf: Spicebomb, Spicebomb Extreme de Parfum, Spicebomb Infrared EdT
 Widian: London
-Xerjoff: Accento, Torino21, Naxos, Alexandria II, Erba Pura, Erba Gold, Muse, Opera, Uden, 40 Knots, Amber Star, Star Musk, 7, La capitale, Lira, 7 Parfum, Tony Iommi Monkey Special, Richwood
-Dries Van Noten: Havana Gold
-Fort & Manle: Amber Absolutely
-Henry Jacques: Xantor
-ESCO: Hellenist / Les Dieux aux Bains
-Franck Boclet: Cocaine
-Blockade: Mind Games
+Xerjoff: 40 Knots, 7, Accento, Alexandria II, Amber Star, Erba Gold, Erba Pura, La capitale, Lira, Muse, Naxos, Opera, Richwood, Star Musk, Tony Lommi Monkey Special, Torino21, Uden
 YSL: Black Opium, Libre, Tuxedo
-Yves Saint Laurent: Y (2021), Y (2017), La Nuit de Homme, Myslf
+Yves Saint Laurent: La nuit de homme, Myslf, Y (2017), Y (2021)
 Zadig & Voltaire: This is her
 Zarkoperfume: The Muse"""
 
