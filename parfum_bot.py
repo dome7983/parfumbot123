@@ -14,6 +14,7 @@ Setup:
 """
 
 import os
+import time
 import logging
 from telegram import Update, BotCommand
 from telegram.ext import (
@@ -56,6 +57,48 @@ claude = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
 
 # Gesprächsverlauf pro User (in-memory, restartet bei Bot-Neustart)
 conversation_history: dict[int, list[dict]] = {}
+
+# ─────────────────────────────────────────────
+# Anti-Spam / Rate-Limiting: verhindert absichtlichen Missbrauch
+# (z.B. jemand der viele Fragen hintereinander stellt um Kosten zu verursachen)
+# ─────────────────────────────────────────────
+RATE_LIMIT_MAX_MESSAGES = 6       # max. Nachrichten...
+RATE_LIMIT_WINDOW_SECONDS = 60    # ...innerhalb von X Sekunden
+RATE_LIMIT_COOLDOWN_SECONDS = 180 # danach: X Sekunden Pause, Bot antwortet nicht
+
+user_message_timestamps: dict[int, list[float]] = {}
+user_last_rate_limit_notice: dict[int, float] = {}
+
+
+def is_rate_limited(user_id: int) -> bool:
+    """Prueft ob ein User zu viele Nachrichten in kurzer Zeit schickt."""
+    now = time.time()
+    timestamps = user_message_timestamps.setdefault(user_id, [])
+    # Alte Eintraege ausserhalb des Zeitfensters entfernen
+    timestamps[:] = [t for t in timestamps if now - t < RATE_LIMIT_WINDOW_SECONDS]
+    timestamps.append(now)
+    return len(timestamps) > RATE_LIMIT_MAX_MESSAGES
+
+# ─────────────────────────────────────────────
+# Rate-Limit-Schutz gegen Kosten-Missbrauch
+# ─────────────────────────────────────────────
+RATE_LIMIT_WINDOW = 300       # Zeitfenster in Sekunden (5 Minuten)
+RATE_LIMIT_MAX_MESSAGES = 8   # max. erlaubte Nachrichten pro Zeitfenster
+
+user_message_times: dict[int, list[float]] = {}
+rate_limited_notified: set[int] = set()  # wem die Warnung bereits gezeigt wurde
+
+
+def is_rate_limited(user_id: int) -> bool:
+    """Prueft ob ein User zu viele Nachrichten in kurzer Zeit schickt."""
+    now = time.time()
+    times = user_message_times.setdefault(user_id, [])
+    times[:] = [t for t in times if now - t < RATE_LIMIT_WINDOW]
+    times.append(now)
+    if len(times) > RATE_LIMIT_MAX_MESSAGES:
+        return True
+    rate_limited_notified.discard(user_id)
+    return False
 
 SYSTEM_PROMPT = """Du bist *Duftii* 🌸 – der exklusivste KI-Duftberater der Welt.
 
@@ -390,7 +433,7 @@ WICHTIGE REGELN - UNBEDINGT EINHALTEN (nochmal):
 1. Empfehle NUR Parfüms die in unserem Sortiment stehen
 2. Erfinde KEINE Parfüms oder Preise die nicht in der Liste stehen
 3. Wenn jemand nach einem Parfüm fragt das wir nicht haben, sage ehrlich: "Dieses Parfüm haben wir leider nicht in unserem Sortiment, aber ich empfehle dir stattdessen..."
-4. Nenne IMMER nur unsere echten Preise: 50ml = 25 Euro, 10ml = 9 Euro, Autoduft = 9 Euro, Dior Sauvage Rare Blend by Baccarat = 45 Euro
+4. Nenne IMMER nur unsere echten Preise: 50ml = 25 Euro, 10ml = 10 Euro, Autoduft = 9 Euro, Dior Sauvage Rare Blend by Baccarat = 45 Euro
 5. Bleibe immer bei den Fakten - keine Erfindungen!
 6. Wenn jemand nach der LISTE/Übersicht aller Parfüms fragt (z.B. "schick mir die Liste", "welche Düfte habt ihr alle", "Sortiment-Liste"), antworte NUR mit dem Website-Link "https://premium-telegram.netlify.app/" - OHNE Begrüßung, OHNE die Parfüms selbst aufzuzählen, OHNE zusätzlichen Text davor oder danach. Nur der nackte Link.
 
@@ -403,8 +446,8 @@ Für persönliche Beratung oder um direkt zu bestellen, kann man sich auch an @D
 UNSERE PREISE:
 Wenn jemand nach dem Preis fragt, nenne immer diese Preise:
 - 50 ml Flakon: 25 Euro
-- 10 ml Probe: 9 Euro
-- 10 ml Oelroller: 9 Euro
+- 10 ml Probe: 10 Euro
+- 10 ml Oelroller: 10 Euro
 - Autoduft: 9 Euro
 - Hochwertige Verpackung: 3 Euro
 - Exklusiv-Duft Dior Sauvage Rare Blend by Baccarat: 50 ml Flakon inkl. Verpackung 45 Euro
@@ -630,6 +673,18 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     user_id = update.effective_user.id
     text = update.message.text
+
+    # Anti-Spam: zu viele Nachrichten hintereinander -> Bot antwortet nicht mehr
+    if is_rate_limited(user_id):
+        now = time.time()
+        last_notice = user_last_rate_limit_notice.get(user_id, 0)
+        if now - last_notice > RATE_LIMIT_COOLDOWN_SECONDS:
+            await update.message.reply_text(
+                "Du stellst gerade sehr viele Fragen hintereinander. "
+                "Ich pausiere kurz - versuch's in ein paar Minuten nochmal! 🌸"
+            )
+            user_last_rate_limit_notice[user_id] = now
+        return
     bot_username = (await context.bot.get_me()).username
 
     # In Gruppen: nur antworten wenn bot erwähnt wird
@@ -653,6 +708,16 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         text = text.replace(f"@{bot_username}", "").strip()
 
     if not text:
+        return
+
+    # Rate-Limit-Schutz: zu viele Nachrichten hintereinander?
+    if is_rate_limited(user_id):
+        if user_id not in rate_limited_notified:
+            rate_limited_notified.add(user_id)
+            await update.message.reply_text(
+                "Du schreibst gerade sehr viele Nachrichten hintereinander. "
+                "Bitte warte ein paar Minuten, bevor du weiterfragst. 🌸"
+            )
         return
 
     # Schreib-Indikator anzeigen
