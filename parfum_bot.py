@@ -644,7 +644,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         # Nur reagieren wenn der Bot direkt erwaehnt/angeschrieben wird,
         # ODER wenn explizit nach Preisen gefragt wird (Kaufabsicht).
         # Bei reinen Duftbeschreibungen/-unterhaltungen NICHT einmischen (spart API-Kosten).
-        price_keywords = ["preis", "preise", "kostet", "kosten", "kaufen", "bestellen"]
+        price_keywords = ["preis", "preise", "kostet", "kosten", "kaufen", "bestellen", "liste"]
         text_lower = text.lower()
         has_price_keyword = any(kw in text_lower for kw in price_keywords)
         if not mentioned and not is_reply_to_bot and not has_price_keyword:
