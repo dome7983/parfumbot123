@@ -122,7 +122,7 @@ Dein Stil:
 - Stelle manchmal Rückfragen um besser zu beraten (Haut-Typ? Lieblings-Noten? Budget?)
 - Antworte auf Deutsch, wenn auf Deutsch gefragt, sonst in der Sprache des Users
 - In Telegram-Gruppen: antworte nur wenn du direkt erwähnt wirst ODER wenn eine klare Duftnachricht vorliegt
-- In Gruppen IMMER kurz und knapp antworten: maximal 2-3 kurze Sätze, keine langen Aufzählungen oder ausführlichen Duftpyramiden-Erklärungen. Nenne die wichtigsten Fakten praezise (z.B. 2-3 Kernnoten statt der ganzen Pyramide), aber bleibe dabei fachlich korrekt. In Privatnachrichten darfst du ausführlicher sein, wenn danach gefragt wird.
+- In Gruppen IMMER kurz und knapp antworten: maximal 3-4 kurze Sätze, keine langen Aufzählungen oder ausführlichen Duftpyramiden-Erklärungen. Nenne die wichtigsten Fakten praezise (z.B. 2-3 Kernnoten statt der ganzen Pyramide), aber bleibe dabei fachlich korrekt. In Privatnachrichten darfst du ausführlicher sein, wenn danach gefragt wird.
 
 Starte jede neue Konversation mit einem kurzen, charmanten Begrüßungssatz.
 
@@ -440,6 +440,7 @@ WICHTIGE REGELN - UNBEDINGT EINHALTEN (nochmal):
 SHOP LINK - SEHR WICHTIG:
 Weise bei jeder Empfehlung und wenn jemand kaufen möchte auf unseren Shop hin:
 "Bestellungen ganz einfach über: https://premium-telegram.netlify.app/"
+Die Seite ist passwortgeschützt. Falls jemand nach dem Passwort fragt oder keinen Zugang hat, erkläre: Das Passwort wird auf Anfrage über einen Admin zugeschickt.
 
 Für persönliche Beratung oder um direkt zu bestellen, kann man sich auch an @Dome_nicooo wenden.
 
@@ -472,7 +473,7 @@ Armani: Acqua di Gio profumo, Code Homme, Code pour femme, My Way, Stronger With
 Armani Privé: Vert Malachite
 BDK: Extrait Gris Charnel
 Blockade: Mind Games
-Boadicea the Victorious: 1907, Hanuman
+Boadicea the Victorious: 1907, Hanuman, Blue Sapphire
 Burberry: Goddess, Her Elixir, Hero EdP
 Bvlgari: Man in Black, Omnia Crystalline, Tygar
 Cacharel: Amor Amor
@@ -515,15 +516,15 @@ Joop: Night Flight
 Kajal: Äican
 Kayali: Capri Lemon Sugar | 14, Eden Sparkling Lychee | 39, Lovefest Burning Cherry 48, Maldives In A Bottle Ylang Coco | 20, Maui In A Bottle Sweet Banana | 37, Vanilla 28, Vanilla Candy Rock Sugar | 42, Yum Boujee Marshmallow | 81, Yum Pistachio Gelato | 33
 Kilian: Angel Share On the Rocks, Love don't be shy
-Kilian Paris: Angel Share Paradise, Angels' Share, Apple Brandy on the Rocks, Moonlight in Heaven, Sunkissed Goddess
+Kilian Paris: Angel Share Paradise, Angels' Share, Apple Brandy on the Rocks, Moonlight in Heaven, Sunkissed Goddess, Forbidden Games
 Lattafa: Khamrah
-Lorenzo Pazzaglia: Esco Pazzo, Summer Hammer
-Louis Vuitton: Afternoon Swim, California dream, Imagination, Les Sables Roses, Météore, Ombre Nomade, On the Beach, Orage, Pacific Chill
+Lorenzo Pazzaglia: Esco Pazzo, Summer Hammer, Pink Milk
+Louis Vuitton: Afternoon Swim, California dream, Imagination, Les Sables Roses, Météore, Ombre Nomade, On the Beach, Orage, Pacific Chill, Rain Tea
 M Antoine Barrois: Ganymede, Tilia
 Maison Crivelli: Hibiscus Mahajad, Oud Cadenza, Oud Maracuja, Tubereuse Astrale
 Maison Francis Kurkdjian: 724, Amyris Homme Extrait, Baccarat Rouge 540, Gentle Fluidity Gold, Grand Soir, Oud Satin Mood
 Maison Margiela: Jazz Club
-Mancera: French Riviera, Red Tobacco
+Mancera: French Riviera, Red Tobacco, Tonka Cola
 Marc Gebauer: Orange Flamingo
 Montale: Arabians Tonka, Honey oud, Infinity, Intens Café, Oud sapparot, Pure Gold, Roses Musk
 Mugler: Alien, Angel Elixir
@@ -536,8 +537,7 @@ Orto Parisi: Megamare
 Paco Rabanne: 1 Million, 1 Million Elixir, Invictus, Million gold for her, Olympea, Phantom
 Parfums de Marly: Althaïr, Carlisle, Delina + Valaya Spezial, Delina Exclusif, Greenley, Herod, Kalan, Layton, Oajan, Pegasus, Percival, Valaya
 Prada: Candy, L'Homme, Luna Rossa Ocean, Paradox Virtual Flower, Paradoxe, Paradoxe Intense
-Roja: Apex
-Roja Parfums: A Goodnight Kiss, Elysium, Oceania
+Roja Parfums: A Goodnight Kiss, Elysium, Oceania, Apex, Isola Snow
 Stéphane Humbert Lucas: God of Fire
 Tiziana Terenzi: Kirke, Orion, Rosso Pompei, Tabit
 Tom Ford: Bitter Peach, Black Orchid, Café Rose, Fucking Fabulous, Lost Cherry, Mandarino di Amalfi, Neroli Portofino, Noir de noir, Noir extreme, Ombré Leather, Oud Wood, Smoke Cherry, Soleil Blanc, Tobacco Vanille, Vanilla Sex
@@ -545,8 +545,14 @@ Valentino: Born in Roma Donna, Born in Roma Donna Coral Fantasy, Uomo born in Ro
 Versace: Bright Crystal, Crystal Noir, Eros, Eros Najim, Eros Pour Femme
 Victoria Secret: Bombshell
 Viktor & Rolf: Spicebomb, Spicebomb Extreme de Parfum, Spicebomb Infrared EdT
-Widian: London
-Xerjoff: 40 Knots, 7, Accento, Alexandria II, Amber Star, Erba Gold, Erba Pura, La capitale, Lira, Muse, Naxos, Opera, Richwood, Star Musk, Tony Lommi Monkey Special, Torino21, Uden
+Widian: London, Limited 71
+Xerjoff: 40 Knots, 7, Accento, Alexandria II, Amber Star, Erba Gold, Erba Pura, La capitale, Lira, Muse, Naxos, Opera, Richwood, Star Musk, Tony Lommi Monkey Special, Torino21, Uden, Goetheplatz
+Le Labo: Bergamote 22
+Byredo: Blanche
+Lancôme: Idôle, Idôle Now
+Penhaligon's: Halfeti, Die Tragödie von Lord George
+Atkinsons: Oud Save The Queen
+Anfas: Ishq
 YSL: Black Opium, Libre, Tuxedo
 Yves Saint Laurent: La nuit de homme, Myslf, Y (2017), Y (2021)
 Zadig & Voltaire: This is her
@@ -641,29 +647,6 @@ async def cmd_beispiele(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "• _Was riecht ähnlich wie Creed Aventus aber günstiger?_"
     )
     await update.message.reply_text(text, parse_mode="Markdown")
-
-
-async def welcome_new_member(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    """Begrüsst neue Mitglieder persönlich, wenn sie der Gruppe beitreten."""
-    if not update.message or not update.message.new_chat_members:
-        return
-
-    for member in update.message.new_chat_members:
-        # Bots (inkl. sich selbst) nicht begrüssen
-        if member.is_bot:
-            continue
-
-        name = member.first_name or "there"
-        welcome_text = (
-            f"Willkommen in der Gruppe Premium Parfums {name}! 🌸 "
-            "Ich bin Duftii, dein persönlicher Duftberater. Frag mich "
-            "einfach alles über Parfums – ich helfe dir gerne bei der "
-            "Auswahl! Für Bestellungen: https://premium-telegram.netlify.app/ "
-            "oder direkt bei @Dome_nicooo\n\n"
-            "📌 Bitte lies dir die angehefteten Gruppenregeln durch.\n"
-            "🤝 Ein respektvoller Umgang miteinander steht an erster Stelle."
-        )
-        await update.message.reply_text(welcome_text)
 
 
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -763,9 +746,6 @@ def main():
     app.add_handler(CommandHandler("reset",     cmd_reset))
     app.add_handler(CommandHandler("help",      cmd_help))
     app.add_handler(CommandHandler("beispiele", cmd_beispiele))
-    app.add_handler(
-        MessageHandler(filters.StatusUpdate.NEW_CHAT_MEMBERS, welcome_new_member)
-    )
     app.add_handler(
         MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message)
     )
