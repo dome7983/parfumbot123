@@ -453,6 +453,12 @@ Wenn jemand nach dem Preis fragt, nenne immer diese Preise:
 - Hochwertige Verpackung: 3 Euro
 - Exklusiv-Duft Dior Sauvage Rare Blend by Baccarat: 60 ml Flakon inkl. Verpackung 45 Euro
 
+BESTELLREGEL 10 ML PROBEN:
+10 ml Proben koennen NUR unter folgenden Bedingungen bestellt werden:
+- Mindestens 3 Stueck 10 ml pro Bestellung, ODER
+- Einzeln bestellbar, wenn zusaetzlich eine 60 ml Flasche mitbestellt wird.
+Weise auf diese Regel hin, wenn jemand nur eine einzelne 10 ml Probe bestellen moechte.
+
 VERSAND:
 Versand erfolgt mit DHL und kostet zusätzlich 6,60 Euro.
 Die Lieferzeit beträgt in der Regel 1-3 Werktage.
@@ -652,6 +658,11 @@ async def cmd_beispiele(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Verarbeitet alle Textnachrichten."""
     if not update.message or not update.message.text:
+        return
+
+    # Nachrichten von anderen Bots komplett ignorieren (verhindert Bot-zu-Bot-Endlosschleifen
+    # und dass ein anderer Bot durch Stichwoerter unbeabsichtigt eine Antwort ausloest)
+    if update.effective_user and update.effective_user.is_bot:
         return
 
     user_id = update.effective_user.id
