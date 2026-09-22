@@ -268,7 +268,7 @@ Marc-Antoine Barrois Tilia: Noten: Lindenblüte, Ginster, Honig, Vetiver. Blumig
 Marc-Antoine Barrois Ganymede: Kopf: Mandarine | Herz: Safran, Veilchenblatt, Osmanthus | Basis: Akigalawood, Immortelle (Strohblume). Holzig-würzig (mineralisch), metallisch-sauber.
 Mancera French Riviera: Kopf: Zitrone, Orange, Mandarine, Ingwer, Pfeffer | Herz: Gischt (Meerwasser), Tiaréblüte, Kiefer, Vetiver | Basis: Meersalz, Amber, weisser Moschus. Zitrisch-aquatisch, Côte d'Azur im Flakon.
 Mancera Red Tobacco: Kopf: Zimt, Agarholz (Oud), Safran, Weihrauch, Muskatnuss, grüner Apfel, weisse Birne | Herz: Patschuli, Jasmin | Basis: Tabak, Madagaskar-Vanille, Amber, Sandelholz, Guajakholz, weisser Moschus. Holzig-würzig, extrem stark, Kirsch-Tabak.
-Purple Stain (Limitiert): Noten: dunkle Beeren, tiefes Leder, rauchige Hölzer, mystische Harze. Holzig-fruchtig (Leder), dunkel, exklusive Rarität. [AKTUELL AUSVERKAUFT, nicht im Sortiment]
+Borntostandout Purple Stain: Ein feuriger Auftakt aus edlem Safran und Zimt, der auf der Haut sanft in einem unwiderstehlich süßen Herz aus flüssigem Karamell und purer Vanille verschmilzt.
 Lattafa Khamrah: Kopf: Zimt, Muskat, Bergamotte | Herz: Datteln, Praline, Tuberose, Mahonial | Basis: Vanille, Tonkabohne, Benzoe, Myrrhe, Amberwood, Akigalawood. Orientalisch-gourmand, süss, dicht, wie orientalisches Dessert.
 Montale Arabians Tonka: Kopf: Safran, Bergamotte | Herz: Agarholz (Oud), bulgarische Rose | Basis: Tonkabohne, Zuckerrohr, Amber, weisser Moschus, Eichenmoos
 Montale Roses Musk: Rose, Jasmin, Moschus
@@ -300,7 +300,7 @@ Louis Vuitton Imagination: Kopf: kalabrische Bergamotte, Zitronatzitrone, sizili
 Louis Vuitton Orage: Kopf: Bergamotte, Grapefruit | Herz: Iris, Hedion, Pfeffer | Basis: Patschuli, Java-Vetiver, Iso E Super, weisser Moschus
 Louis Vuitton Attrape Reves: Kopf: Litschi, Ingwer, Bergamotte | Herz: Pfingstrose, Kakao, Rose | Basis: Patschuli
 Lorenzo Pazzaglia Summer Hammer: Kopf: Ananas, Mango, Kokosnuss | Herz: Rum, tropische Noten, Tiaréblüte | Basis: Sandelholz, Vanille, Moschus. Fruchtig-gourmand, tropische Exotik-Explosion.
-Lorenzo Pazzaglia Black Sea: Kopf: Meeresnoten, Salz, Wassernoten, Bergamotte, Myrte | Herz: Meeresnoten, Ylang-Ylang, Patschuli, Orangenblüte | Basis: Ambra, Eichenmoos, weisser Moschus, Sandelholz [AKTUELL AUSVERKAUFT]
+Lorenzo Pazzaglia Black Sea: Kopf: Meeresnoten, Salz, Wassernoten, Bergamotte, Myrte | Herz: Meeresnoten, Ylang-Ylang, Patschuli, Orangenblüte | Basis: Ambra, Eichenmoos, weisser Moschus, Sandelholz
 Summer Hammer: Kopf: Mango, Ananas, Kokosnuss, Rum, Bergamotte | Herz: Kokosmilch, marine Noten | Basis: Vetiver, Moschus, Sandelholz, Amber
 Parfums de Marly Carlisle: Kopf: grüner Apfel, Muskat | Herz: Tonkabohne, Osmanthus, Rose, Davana | Basis: Vanille, Patschuli, Opoponax
 Parfums de Marly Greenley: Kopf: grüner Apfel, kalabrische Bergamotte, Mandarine | Herz: Petitgrain, Cashmeran, Zedernholz, Pomarose, Veilchen | Basis: Eichenmoos, Moschus, Amberwood
@@ -428,6 +428,56 @@ Tiziana Terenzi Rosso Pompei: Ein fruchtig-wuerziger Duft mit saftiger Grapefrui
 Xerjoff Richwood: Ein edler, holziger Unisex-Duft mit Bergamotte, Damaszener-Rose, Patchouli und Mysore-Sandelholz.
 Xerjoff Tony Lommi Monkey Special: Ein holzig-wuerziger Unisex-Duft mit Rum, Passionsfrucht, Patchouli und Leder.
 
+Amouage Honour Man: Ein elektrisierender Auftakt aus schwarzem und rosa Pfeffer, der durch warmes Elemiharz und mystischen Weihrauch eine faszinierende, rauchige Tiefe erhält.
+Amouage Honour Woman: Ein wagemutiger Auftakt aus herbem Rhabarber und scharfem Pfeffer, der in ein betörendes, schweres Blumenherz und eine rauchige Leder-Basis mündet.
+Amouage Line 618: Ein faszinierender Kontrast aus süßer Ananas und cremiger Kokosmilch, der durch mystischen omanischen Weihrauch und rauchiges Leder eine unfassbare Tiefe erhält.
+Acqua di Parma Buongiorno Al Bacio: Ein mediterraner Traum, bei dem spritzige kalabrische Bergamotte und strahlendes Neroli auf die elegante Tiefe von Virginiazedernholz und sanftem Weihrauch treffen.
+Boadicea the Victorious Heroine: Eine samtige Verführung, bei der dunkle Beeren in ein pudrig-florales Herz eintauchen und von unwiderstehlichem Vanillezucker sanft umhüllt werden.
+Bond No. 9 Bleecker Street: Ein faszinierendes Spiel der Gegensätze, bei dem saftige schwarze Johannisbeere in warmem Karamell versinkt und auf der Haut zu einer unendlich weichen, luxuriösen Wildleder-Aura verschmilzt.
+Bond No. 9 Greenwich Village: Ein betörender Cocktail aus exotischer Litschi und süßem Pfirsichnektar, der auf der Haut fließend in einer luxuriösen, zartschmelzenden Wolke aus Praline und Vanille versinkt.
+Bond No. 9 Lafayette Street: Ein unwiderstehlicher, knackiger Apfel-Akkord, der durch modernes Ambroxan und cremige Vanille eine unglaublich strahlende, anziehende Präsenz erhält.
+Borntostandout Black Guava: Ein tropischer Rausch aus saftiger Guave, der mit Kristallzucker und feiner Vanille zu einer sündhaft süßen Versuchung verschmilzt, schwer getragen von tiefem, luxuriösem Oud.
+Borntostandout DGAF: Ein eleganter Auftakt aus kalabrischer Bergamotte und würzigem Salbei, der tief in ein mystisches Herz aus Weihrauch und edlem Sandelholz eintaucht.
+Borntostandout Drunk Saffron: Ein berauschender Cocktail aus süßer Pflaume und dunklem Cognac, der durch warmen Kaffee und edles Leder zu einer unwiderstehlichen Versuchung wird.
+Borntostandout Free Coco: Ein samtweicher Tropentraum aus frischem Kokoswasser und nussiger Macadamia, der in einer luxuriösen Überdosis feinster Bourbonvanille badet.
+Borntostandout L'Animal: Ein unwiderstehlicher Rausch aus goldenem Rum und süßer Mandelpaste, der auf der Haut fließend mit warmem Honig und cremiger Vanille verschmilzt.
+Borntostandout Oud Candy: Extrem süß, holzig und unverschämt luxuriös – eine meisterhafte Gourmand-Explosion aus Bonbons, Milch, Nüssen und rauchigem Oud.
+Borntostandout À Corps Secret: Ein opulentes Meisterwerk, bei dem spritzige Mandarine und scharfer Zimt mit süßer Praline verschmelzen und auf einer majestätischen Oud-Vanille-Basis ruhen.
+Clive Christian Strange Heavens Out of the Blue: Ein tiefgründiger, aufregender Rausch aus dunklem Kaffee und süßem Vanille-Karamell, der durch einen rauchigen Akkord eine geheimnisvolle, fast verbotene Tiefe erhält.
+Creed Green Irish Tweed: Grün, frisch und absolut zeitlos – ein aromatischer Klassiker voller belebender Zitrik, kühler Minze und tiefer, holziger Eleganz.
+Creed Silver Mountain Water: Eine erfrischende Brise aus grüner Johannisbeere und spritziger Zitrik, die mit beruhigenden Teenoten und kühlem Ozon zu purer Klarheit verschmilzt.
+De Marly Perseus: Ein belebender Frische-Kick aus herber Grapefruit und saftiger grüner Mandarine, der von der feinen Fruchtigkeit schwarzer Johannisbeere perfekt ergänzt wird.
+Dior Élixir Précieux Patchouli: Ein Meisterwerk der dunklen Verführung, das die rohe, erdige Tiefe von purem Patchouli in eine unerwartet süße und rauchige Gourmand-Aura hüllt.
+Diptyque Orphéon: Floral, honigsüß und unverschämt komplex – ein luxuriöses Elixier aus kostbaren Blüten, goldenem Honig und strahlender Ambroxan-Tiefe.
+Du Bois Tropiques: Ein exotischer Cocktail aus tropischen Früchten und spritziger Bergamotte, der sanft auf einer absolut süchtig machenden, warmen Karamell-Basis landet.
+Ibraheem AlQurashi Brazilian Tobacco: Eine sinnliche Kollision aus süßer, saftiger Kirsche und rauchigem Tabak, die auf der Haut in eine unerschütterliche, dunkle Leder-Aura übergeht.
+Ibraheem AlQurashi French Tobacco: Ein spritziger Cocktail aus leuchtender Blutorange und grünem Apfel, der durch feurigen Ingwer und rauchigen Tabak eine unwiderstehlich maskuline Tiefe erhält.
+Initio Lift Me Up: Ein leuchtender Auftakt aus spritziger Bergamotte, der ein opulentes, exotisches Blütenherz aus Ylang-Ylang und zarter Magnolie in strahlendes Licht taucht.
+Jusbox Wave of Freedom: Ein exotischer, von feurigem Zimt geküsster Cocktail aus saftiger Birne und süßer Ananas, der direkt Urlaubsgefühle weckt.
+Kilian Vodka on the Rocks: Kühl, synthetisch-modern und absolut elegant – ein meisterhaftes Zusammenspiel aus reinen Blüten, scharfer Würze und tiefen Holznoten.
+Lancôme Idôle Peach 'N Roses: Ein fließender Übergang von saftigen roten Beeren und spritzigem Pfirsich in die pure, romantische Tiefe einer königlichen Damaszener-Rose.
+Lorenzo Pazzaglia Dark Florum: Ein berauschendes Meisterwerk, bei dem fassgereifter Rum und süße Datteln auf ein feuriges Herz aus Safran, Zimt und exotischen Früchten treffen.
+Lorenzo Pazzaglia Sex Sea: Ein maritimer Cocktail, der die Kühle mediterraner Zitrusfrüchte mit der erdigen Tiefe von Feige, Eichenmoos und sonnengetrocknetem Salz vereint.
+Louis Vuitton Lovers: Ein spritziger Auftakt aus Bergamotte und scharfem Ingwer, der fließend in eine kühle, herrlich grüne Aura aus Galbanum übergeht.
+Louis Vuitton Symphony: Die frische Zitrusnote trifft auf eine leichte, fruchtige Süsse, was dem Parfum etwas sehr Helles und Freundliches verleiht. [AKTUELL AUSVERKAUFT, nicht im Sortiment]
+Malizia Uomo Vetyver: Ein zeitlos markanter Duft, der mit einer tiefgründigen Basis aus erdigem Vetiver und warmem Zedernholz maskuline Eleganz verströmt.
+Nishane Karagoz: Ein exotischer Rausch aus dunkler schwarzer Traube und spritziger Ananas, der tief in eine mystische, extrem luxuriöse Basis aus Oud und warmem Amber stürzt.
+Nishane Tero: Ein explosives Spiel der Gegensätze, bei dem goldenes Salzkaramell auf die elektrisierende Schärfe von Szechuanpfeffer und warme Hölzer trifft.
+Pantheon Roma A: Ein tropischer Rausch aus saftiger Mango und cremiger Kokosnuss, der sich in einer luxuriösen, warmen Welle aus Vanille und Tonkabohne verliert.
+Profumum Roma Acqua di Sale: Eine frische Meeresbrise aus aquatischem Seetang und Myrte trifft auf holziges Zedernholz.
+Profumum Roma Acqua e Zucchero: Ein fruchtig-florales Erlebnis: Süße Waldfrüchte und strahlende Orangenblüte auf einem weichen Vanille-Fond.
+Profumum Roma Confetto: Ein süß-würziges Zusammenspiel aus Mandel und Anis, getragen von tiefgründiger Vanille, Amber und Eichenmoos.
+Profumum Roma Vanitas: Eine verführerische Komposition, bei der strahlende Orangenblüte in eine sinnlich-warme Basis aus mystischer Myrrhe, cremigem Sandelholz und süßer Vanille eintaucht.
+Roja Parfums Burlington 1819: Ein eiskalter Cocktail aus prickelnder Limette, Minze und edlem Rum, der auf der Haut fließend mit süßer Vanille und warmem Tabak verschmilzt.
+The Merchant Of Venice Vinegia 21: Ein orientalisches Meisterwerk, bei dem kostbares Oud und rauchiger Weihrauch auf die gourmandige Süße von Praline und feinstem laotischem Zimt treffen.
+Thomas Kosmala No 4 Neon: Eine leuchtende Fruchtexplosion aus exotischer Mango und spritziger Yuzu, getragen von einer vibrierenden, endlos strahlenden Ozon-Frische.
+Tom Ford Figue Érotique: Spritzige Bergamotte und exotischer Ylang-Ylang treffen auf eine süße Feigen-Aura, die von dunklem Zucker und erdig-holzigem Vetiver meisterhaft geerdet wird.
+Tom Ford Plum Japonais: Eine tiefe, warme Umarmung aus Siam-Benzoe, Amber und samtiger Vanille, durchzogen von der spritzigen Süße dunkler Pflaumen und edler Gewürze.
+Xerjoff 2 Parfum: Ein exotischer Rausch aus saftigem Pfirsich und Passionsfrucht, der tief in eine abgründig sinnliche, luxuriöse Basis aus Leder und kostbarem Agarholz stürzt.
+Xerjoff White On White: Frische Feige und Rose verschmelzen mit milchigen weißen Blüten auf einer sinnlich-warmen Basis aus Sandelholz und Vanille.
+YSL Baby Cat: Ein faszinierendes Spiel aus scharfem Pfeffer und mystischem Weihrauch, das auf der Haut zu einer unendlich weichen, cremigen Vanille-Wildleder-Aura verschmilzt.
+Zarkoperfume Purple Molécule 070·07: Ein vibrierender Frischekick aus leuchtender Drachenfrucht, der sanft in eine cremige, unwiderstehliche Wolke aus Madagaskar-Vanille und Sandelholz gleitet.
+
 WICHTIGE REGELN - UNBEDINGT EINHALTEN (nochmal):
 0. Benutze KEINE Markdown-Formatierung! Kein *fett*, kein **bold**, keine Sternchen *, keine Unterstriche _! Nur normaler Text ohne jegliche Formatierung!
 1. Empfehle NUR Parfüms die in unserem Sortiment stehen
@@ -471,8 +521,8 @@ Weise bei Empfehlungen gerne auf unsere günstigen Preise hin!
 WICHTIG - UNSER SORTIMENT:
 Wenn jemand nach einer Empfehlung fragt, empfehle BEVORZUGT Parfuems aus unserem Sortiment und weise darauf hin dass diese verfuegbar sind:
 
-Acqua di Parma: Bergamotto di Calabria, Colonia Essenza, Fico di Amalfi
-Amouage: Essence Outlands, Guidance, Guidance 46, Interlude, Reflection, Sinbad
+Acqua di Parma: Bergamotto di Calabria, Colonia Essenza, Fico di Amalfi, Buongiorno Al Bacio
+Amouage: Essence Outlands, Guidance, Guidance 46, Interlude, Reflection, Sinbad, Honour Man, Honour Woman, Line 618
 Arabian Oud: Madawi
 Argus: Triumph of Bacchus
 Ariana Grande: Ari
@@ -480,7 +530,7 @@ Armani: Acqua di Gio profumo, Code Homme, Code pour femme, My Way, Stronger With
 Armani Privé: Vert Malachite
 BDK: Extrait Gris Charnel
 Blockade: Mind Games
-Boadicea the Victorious: 1907, Hanuman, Blue Sapphire
+Boadicea the Victorious: 1907, Hanuman, Blue Sapphire, Heroine
 Burberry: Goddess, Her Elixir, Hero EdP
 Bvlgari: Man in Black, Omnia Crystalline, Tygar
 Cacharel: Amor Amor
@@ -488,15 +538,15 @@ Carolina Herrera: 212 VIP Men, Bad Boy, Good Girl, La Bomba 2025, Stallion Leath
 Casamorati: Dolce Amalfi, Mefisto
 Chanel: Allure Sport Homme, Bleu de Chanel, Bleu de Chanel EdP, Chance Eau Fraîche, Chance Eau Tendre EdT, Coco Mademoiselle, N°5
 Chloé: Chloé
-Clive Christian: 1872 for men, Blonde Amber, Jump Up and Kiss Me Hedonistic
-Creed: Absolu Aventus, Aventus, Millésime Impérial
+Clive Christian: 1872 for men, Blonde Amber, Jump Up and Kiss Me Hedonistic, Strange Heavens Out of the Blue
+Creed: Absolu Aventus, Aventus, Millésime Impérial, Green Irish Tweed, Silver Mountain Water, Virgin Island Water
 D&G: Devotion, Light Blue, The One for Men
 Davidoff: Cool water
-De Marly: Sedley
+De Marly: Sedley, Perseus
 Diesel: Loverdose
-Dior: Absolutely Blooming, Addict edp (2014), Bois d'Argent Esprit, Dior Homme Intense, Fahrenheit, Hypnotic Poison, J'adore, Miss blooming bouquet, Miss Dior Cherie, Miss Dior EdP 2021, Oud Ispahan, Sauvage Elixir, Tabacolor
+Dior: Absolutely Blooming, Addict edp (2014), Bois d'Argent Esprit, Dior Homme Intense, Fahrenheit, Hypnotic Poison, J'adore, Miss blooming bouquet, Miss Dior Cherie, Miss Dior EdP 2021, Oud Ispahan, Sauvage Elixir, Tabacolor, Élixir Précieux Patchouli
 Dior * Spezial Preis!: Sauvage Rare Blend by Baccarat
-Diptyque: Philosykos, Tam Dao EdP
+Diptyque: Philosykos, Tam Dao EdP, Orphéon
 Dolce & Gabbana: Light Blue pour Homme Intense, The one, The One For Men Gold
 Dries Van Noten: Havana Gold
 Dubai: Turath
@@ -515,18 +565,18 @@ Guerlain: Mon Guerlain
 Henry Jacques: Hellenist Les Dieux aux Bains
 Hermès: H24, Terre d'Hermès
 Hugo Boss: Alive, Boss Bottled, Boss Bottled Absolu, Boss Ma Vie pour Femme, Boss orange, Boss the Scent, Boss the Scent Elixir for Him, Hugo Woman, The Scent Magnetic for Him
-Initio: Narcotic Delight, Oud for Happiness
+Initio: Narcotic Delight, Oud for Happiness, Lift Me Up
 Initio Parfums Privés: Oud for Greatness, Rehab, Side Effect
 Jacques Bogart: Silver Scent
 Jean Paul Gaultier: Divine, Gaultier², Le Beau, Le Beau Flower Edition 2025, Le Male Elixir, Scandal, Scandal Pour Homme, Scandal pour Homme Absolu, Scandal pour Homme Le Parfum, Ultra Male
 Joop: Night Flight
 Kajal: Äican
 Kayali: Capri Lemon Sugar | 14, Eden Sparkling Lychee | 39, Lovefest Burning Cherry 48, Maldives In A Bottle Ylang Coco | 20, Maui In A Bottle Sweet Banana | 37, Vanilla 28, Vanilla Candy Rock Sugar | 42, Yum Boujee Marshmallow | 81, Yum Pistachio Gelato | 33
-Kilian: Angel Share On the Rocks, Love don't be shy
+Kilian: Angel Share On the Rocks, Love don't be shy, Vodka on the Rocks
 Kilian Paris: Angel Share Paradise, Angels' Share, Apple Brandy on the Rocks, Moonlight in Heaven, Sunkissed Goddess, Forbidden Games
 Lattafa: Khamrah
-Lorenzo Pazzaglia: Esco Pazzo, Summer Hammer, Pink Milk
-Louis Vuitton: Afternoon Swim, California dream, Imagination, Les Sables Roses, Météore, Ombre Nomade, On the Beach, Orage, Pacific Chill, Rain Tea
+Lorenzo Pazzaglia: Esco Pazzo, Summer Hammer, Pink Milk, Black Sea, Dark Florum, Sex Sea
+Louis Vuitton: Afternoon Swim, California dream, Imagination, Les Sables Roses, Météore, Ombre Nomade, On the Beach, Orage, Pacific Chill, Rain Tea, Lovers
 M Antoine Barrois: Ganymede, Tilia
 Maison Crivelli: Hibiscus Mahajad, Oud Cadenza, Oud Maracuja, Tubereuse Astrale
 Maison Francis Kurkdjian: 724, Amyris Homme Extrait, Baccarat Rouge 540, Gentle Fluidity Gold, Grand Soir, Oud Satin Mood
@@ -538,32 +588,44 @@ Mugler: Alien, Angel Elixir
 Narcisio Rodriguez: For Her Pure Musc Blanc
 Narciso Rodriguez: Amber MUSC, For Her Pure Musc, Poudrée
 Nasomatto: Black Afgano
-Nishane: Ani, Hacivat, Nefs, Wu long
+Nishane: Ani, Hacivat, Nefs, Wu long, Karagoz, Tero
 Ormonde Jayne: Montabaco Rio
 Orto Parisi: Megamare
 Paco Rabanne: 1 Million, 1 Million Elixir, Invictus, Million gold for her, Olympea, Phantom
 Parfums de Marly: Althaïr, Carlisle, Delina + Valaya Spezial, Delina Exclusif, Greenley, Herod, Kalan, Layton, Oajan, Pegasus, Percival, Valaya
 Prada: Candy, L'Homme, Luna Rossa Ocean, Paradox Virtual Flower, Paradoxe, Paradoxe Intense
-Roja Parfums: A Goodnight Kiss, Elysium, Oceania, Apex, Isola Snow
+Roja Parfums: A Goodnight Kiss, Elysium, Oceania, Apex, Isola Snow, Burlington 1819
 Stéphane Humbert Lucas: God of Fire
 Tiziana Terenzi: Kirke, Orion, Rosso Pompei, Tabit
-Tom Ford: Bitter Peach, Black Orchid, Café Rose, Fucking Fabulous, Lost Cherry, Mandarino di Amalfi, Neroli Portofino, Noir de noir, Noir extreme, Ombré Leather, Oud Wood, Smoke Cherry, Soleil Blanc, Tobacco Vanille, Vanilla Sex
+Tom Ford: Bitter Peach, Black Orchid, Café Rose, Fucking Fabulous, Lost Cherry, Mandarino di Amalfi, Neroli Portofino, Noir de noir, Noir extreme, Ombré Leather, Oud Wood, Smoke Cherry, Soleil Blanc, Tobacco Vanille, Vanilla Sex, Figue Érotique, Plum Japonais
 Valentino: Born in Roma Donna, Born in Roma Donna Coral Fantasy, Uomo born in Roma, Uomo Born in Roma Yellow Dream
 Versace: Bright Crystal, Crystal Noir, Eros, Eros Najim, Eros Pour Femme
 Victoria Secret: Bombshell
 Viktor & Rolf: Spicebomb, Spicebomb Extreme de Parfum, Spicebomb Infrared EdT
 Widian: London, Limited 71
-Xerjoff: 40 Knots, 7, Accento, Alexandria II, Amber Star, Erba Gold, Erba Pura, La capitale, Lira, Muse, Naxos, Opera, Richwood, Star Musk, Tony Lommi Monkey Special, Torino21, Uden, Goetheplatz
+Xerjoff: 40 Knots, 7, Accento, Alexandria II, Amber Star, Erba Gold, Erba Pura, La capitale, Lira, Muse, Naxos, Opera, Richwood, Star Musk, Tony Lommi Monkey Special, Torino21, Uden, Goetheplatz, 2 Parfum, White On White
 Le Labo: Bergamote 22
 Byredo: Blanche
-Lancôme: Idôle, Idôle Now
+Lancôme: Idôle, Idôle Now, Idôle Peach 'N Roses
 Penhaligon's: Halfeti, Die Tragödie von Lord George
 Atkinsons: Oud Save The Queen
 Anfas: Ishq
-YSL: Black Opium, Libre, Tuxedo
+YSL: Black Opium, Libre, Tuxedo, Baby Cat
 Yves Saint Laurent: La nuit de homme, Myslf, Y (2017), Y (2021)
 Zadig & Voltaire: This is her
-Zarkoperfume: The Muse"""
+Zarkoperfume: The Muse, Purple Molécule 070·07
+Bond No. 9: Bleecker Street, Greenwich Village, Lafayette Street
+Borntostandout: Black Guava, DGAF, Drunk Saffron, Free Coco, L'Animal, Oud Candy, Purple Stain, À Corps Secret
+Du Bois: Tropiques
+Ibraheem AlQurashi: Brazilian Tobacco, French Tobacco
+Jusbox: Wave of Freedom
+Malizia: Uomo Vetyver
+Pantheon Roma: A
+Profumum Roma: Acqua di Sale, Acqua e Zucchero, Confetto, Vanitas
+Sospiro: Il Padrino
+The Merchant Of Venice: Vinegia 21
+Thomas Kosmala: No 4 Neon
+"""
 
 MAX_HISTORY = 20  # Nachrichten im Verlauf behalten
 
