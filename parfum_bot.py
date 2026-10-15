@@ -795,17 +795,6 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = update.effective_user.id
     text = update.message.text
 
-    # Anti-Spam: zu viele Nachrichten hintereinander -> Bot antwortet nicht mehr
-    if is_rate_limited(user_id):
-        now = time.time()
-        last_notice = user_last_rate_limit_notice.get(user_id, 0)
-        if now - last_notice > RATE_LIMIT_COOLDOWN_SECONDS:
-            await update.message.reply_text(
-                "Du stellst gerade sehr viele Fragen hintereinander. "
-                "Ich pausiere kurz - versuch's in ein paar Minuten nochmal! 🌸"
-            )
-            user_last_rate_limit_notice[user_id] = now
-        return
     bot_username = (await context.bot.get_me()).username
 
     # In Gruppen: nur antworten wenn bot erwähnt wird
@@ -831,14 +820,8 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not text:
         return
 
-    # Rate-Limit-Schutz: zu viele Nachrichten hintereinander?
+    # Rate-Limit-Schutz: zu viele Nachrichten hintereinander -> still ignorieren (ohne Hinweis)
     if is_rate_limited(user_id):
-        if user_id not in rate_limited_notified:
-            rate_limited_notified.add(user_id)
-            await update.message.reply_text(
-                "Du schreibst gerade sehr viele Nachrichten hintereinander. "
-                "Bitte warte ein paar Minuten, bevor du weiterfragst. 🌸"
-            )
         return
 
     # Schreib-Indikator anzeigen
