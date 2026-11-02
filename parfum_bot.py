@@ -501,7 +501,7 @@ Wenn jemand nach dem Preis fragt, nenne immer diese Preise:
 - 10 ml Probe: 10,90 Euro 
 - Ölroller: 12,50 Euro
 - Autoduft: 9 Euro
-- Hochwertige Verpackung: 1,5 Euro
+- Hochwertige Verpackung: Kostenlos 
 - Exklusiv-Duft Dior Sauvage Rare Blend by Baccarat: 60 ml Flakon inkl. Verpackung 45 Euro
 
 
